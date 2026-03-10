@@ -1,0 +1,1323 @@
+date,category,amount,notes,is_fixed_cost,cost_type,year,month_num,quarter
+2024-01-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,1,1
+2024-01-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,1,1
+2024-01-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,1,1
+2024-01-01,Cost of Goods Sold,710.5,Daily COGS,False,Variable,2024,1,1
+2024-01-01,Marketing,723.55,Social media and promotions,False,Variable,2024,1,1
+2024-01-01,Shipping & Packaging,46.8,14 online orders,False,Variable,2024,1,1
+2024-01-02,Cost of Goods Sold,1424.5,Daily COGS,False,Variable,2024,1,1
+2024-01-02,Shipping & Packaging,76.68,27 online orders,False,Variable,2024,1,1
+2024-01-03,Cost of Goods Sold,1461.0,Daily COGS,False,Variable,2024,1,1
+2024-01-03,Shipping & Packaging,65.74,19 online orders,False,Variable,2024,1,1
+2024-01-04,Cost of Goods Sold,699.0,Daily COGS,False,Variable,2024,1,1
+2024-01-04,Shipping & Packaging,51.75,13 online orders,False,Variable,2024,1,1
+2024-01-05,Payroll,2498.5,Weekly payroll - 4 staff,False,Variable,2024,1,1
+2024-01-05,Cost of Goods Sold,1223.5,Daily COGS,False,Variable,2024,1,1
+2024-01-05,Shipping & Packaging,107.67,25 online orders,False,Variable,2024,1,1
+2024-01-06,Cost of Goods Sold,1324.5,Daily COGS,False,Variable,2024,1,1
+2024-01-06,Shipping & Packaging,113.39,28 online orders,False,Variable,2024,1,1
+2024-01-07,Cost of Goods Sold,921.5,Daily COGS,False,Variable,2024,1,1
+2024-01-07,Shipping & Packaging,48.43,19 online orders,False,Variable,2024,1,1
+2024-01-08,Cost of Goods Sold,270.5,Daily COGS,False,Variable,2024,1,1
+2024-01-08,Marketing,98.4,Social media and promotions,False,Variable,2024,1,1
+2024-01-08,Shipping & Packaging,7.38,2 online orders,False,Variable,2024,1,1
+2024-01-09,Cost of Goods Sold,140.0,Daily COGS,False,Variable,2024,1,1
+2024-01-09,Shipping & Packaging,23.3,6 online orders,False,Variable,2024,1,1
+2024-01-10,Cost of Goods Sold,201.0,Daily COGS,False,Variable,2024,1,1
+2024-01-10,Shipping & Packaging,16.97,4 online orders,False,Variable,2024,1,1
+2024-01-11,Cost of Goods Sold,455.5,Daily COGS,False,Variable,2024,1,1
+2024-01-11,Shipping & Packaging,32.48,9 online orders,False,Variable,2024,1,1
+2024-01-12,Payroll,2467.71,Weekly payroll - 4 staff,False,Variable,2024,1,1
+2024-01-12,Cost of Goods Sold,473.0,Daily COGS,False,Variable,2024,1,1
+2024-01-12,Shipping & Packaging,17.37,6 online orders,False,Variable,2024,1,1
+2024-01-13,Cost of Goods Sold,641.0,Daily COGS,False,Variable,2024,1,1
+2024-01-13,Shipping & Packaging,34.97,12 online orders,False,Variable,2024,1,1
+2024-01-14,Cost of Goods Sold,772.5,Daily COGS,False,Variable,2024,1,1
+2024-01-14,Shipping & Packaging,47.84,15 online orders,False,Variable,2024,1,1
+2024-01-15,Utilities,285.02,"Electricity, water, internet",False,Variable,2024,1,1
+2024-01-15,Cost of Goods Sold,269.5,Daily COGS,False,Variable,2024,1,1
+2024-01-15,Marketing,127.95,Social media and promotions,False,Variable,2024,1,1
+2024-01-15,Shipping & Packaging,25.98,7 online orders,False,Variable,2024,1,1
+2024-01-16,Cost of Goods Sold,541.0,Daily COGS,False,Variable,2024,1,1
+2024-01-16,Shipping & Packaging,32.89,10 online orders,False,Variable,2024,1,1
+2024-01-17,Cost of Goods Sold,521.0,Daily COGS,False,Variable,2024,1,1
+2024-01-17,Shipping & Packaging,26.8,10 online orders,False,Variable,2024,1,1
+2024-01-18,Cost of Goods Sold,436.5,Daily COGS,False,Variable,2024,1,1
+2024-01-18,Shipping & Packaging,13.02,5 online orders,False,Variable,2024,1,1
+2024-01-19,Payroll,2553.02,Weekly payroll - 4 staff,False,Variable,2024,1,1
+2024-01-19,Cost of Goods Sold,376.5,Daily COGS,False,Variable,2024,1,1
+2024-01-19,Shipping & Packaging,16.97,5 online orders,False,Variable,2024,1,1
+2024-01-20,Cost of Goods Sold,763.0,Daily COGS,False,Variable,2024,1,1
+2024-01-20,Shipping & Packaging,43.76,13 online orders,False,Variable,2024,1,1
+2024-01-21,Cost of Goods Sold,577.0,Daily COGS,False,Variable,2024,1,1
+2024-01-21,Shipping & Packaging,31.91,11 online orders,False,Variable,2024,1,1
+2024-01-22,Cost of Goods Sold,319.5,Daily COGS,False,Variable,2024,1,1
+2024-01-22,Marketing,55.81,Social media and promotions,False,Variable,2024,1,1
+2024-01-22,Shipping & Packaging,20.73,5 online orders,False,Variable,2024,1,1
+2024-01-23,Cost of Goods Sold,216.0,Daily COGS,False,Variable,2024,1,1
+2024-01-23,Shipping & Packaging,25.74,6 online orders,False,Variable,2024,1,1
+2024-01-24,Cost of Goods Sold,169.0,Daily COGS,False,Variable,2024,1,1
+2024-01-24,Shipping & Packaging,13.38,4 online orders,False,Variable,2024,1,1
+2024-01-25,Cost of Goods Sold,379.0,Daily COGS,False,Variable,2024,1,1
+2024-01-25,Shipping & Packaging,29.7,7 online orders,False,Variable,2024,1,1
+2024-01-26,Payroll,2487.78,Weekly payroll - 4 staff,False,Variable,2024,1,1
+2024-01-26,Cost of Goods Sold,147.5,Daily COGS,False,Variable,2024,1,1
+2024-01-26,Shipping & Packaging,7.58,2 online orders,False,Variable,2024,1,1
+2024-01-27,Cost of Goods Sold,636.0,Daily COGS,False,Variable,2024,1,1
+2024-01-27,Shipping & Packaging,56.67,13 online orders,False,Variable,2024,1,1
+2024-01-28,Cost of Goods Sold,937.0,Daily COGS,False,Variable,2024,1,1
+2024-01-28,Shipping & Packaging,38.25,12 online orders,False,Variable,2024,1,1
+2024-01-29,Cost of Goods Sold,572.5,Daily COGS,False,Variable,2024,1,1
+2024-01-29,Marketing,104.71,Social media and promotions,False,Variable,2024,1,1
+2024-01-29,Shipping & Packaging,27.34,7 online orders,False,Variable,2024,1,1
+2024-01-30,Cost of Goods Sold,545.0,Daily COGS,False,Variable,2024,1,1
+2024-01-30,Shipping & Packaging,36.12,10 online orders,False,Variable,2024,1,1
+2024-01-31,Cost of Goods Sold,440.0,Daily COGS,False,Variable,2024,1,1
+2024-01-31,Shipping & Packaging,32.4,9 online orders,False,Variable,2024,1,1
+2024-02-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,2,1
+2024-02-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,2,1
+2024-02-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,2,1
+2024-02-01,Cost of Goods Sold,464.0,Daily COGS,False,Variable,2024,2,1
+2024-02-01,Shipping & Packaging,20.98,5 online orders,False,Variable,2024,2,1
+2024-02-02,Payroll,2530.9,Weekly payroll - 4 staff,False,Variable,2024,2,1
+2024-02-02,Cost of Goods Sold,388.5,Daily COGS,False,Variable,2024,2,1
+2024-02-02,Shipping & Packaging,25.67,8 online orders,False,Variable,2024,2,1
+2024-02-03,Cost of Goods Sold,647.0,Daily COGS,False,Variable,2024,2,1
+2024-02-03,Shipping & Packaging,29.36,7 online orders,False,Variable,2024,2,1
+2024-02-04,Cost of Goods Sold,557.5,Daily COGS,False,Variable,2024,2,1
+2024-02-04,Shipping & Packaging,27.44,8 online orders,False,Variable,2024,2,1
+2024-02-05,Cost of Goods Sold,407.5,Daily COGS,False,Variable,2024,2,1
+2024-02-05,Marketing,184.4,Social media and promotions,False,Variable,2024,2,1
+2024-02-05,Shipping & Packaging,3.82,1 online orders,False,Variable,2024,2,1
+2024-02-06,Cost of Goods Sold,250.0,Daily COGS,False,Variable,2024,2,1
+2024-02-06,Shipping & Packaging,16.9,6 online orders,False,Variable,2024,2,1
+2024-02-07,Cost of Goods Sold,318.0,Daily COGS,False,Variable,2024,2,1
+2024-02-07,Shipping & Packaging,27.28,9 online orders,False,Variable,2024,2,1
+2024-02-08,Cost of Goods Sold,551.5,Daily COGS,False,Variable,2024,2,1
+2024-02-08,Shipping & Packaging,29.7,9 online orders,False,Variable,2024,2,1
+2024-02-09,Payroll,2414.35,Weekly payroll - 4 staff,False,Variable,2024,2,1
+2024-02-09,Cost of Goods Sold,221.5,Daily COGS,False,Variable,2024,2,1
+2024-02-09,Shipping & Packaging,18.86,5 online orders,False,Variable,2024,2,1
+2024-02-10,Cost of Goods Sold,1334.0,Daily COGS,False,Variable,2024,2,1
+2024-02-10,Shipping & Packaging,72.26,20 online orders,False,Variable,2024,2,1
+2024-02-11,Cost of Goods Sold,1158.0,Daily COGS,False,Variable,2024,2,1
+2024-02-11,Shipping & Packaging,73.48,18 online orders,False,Variable,2024,2,1
+2024-02-12,Cost of Goods Sold,1050.0,Daily COGS,False,Variable,2024,2,1
+2024-02-12,Marketing,506.91,Social media and promotions,False,Variable,2024,2,1
+2024-02-12,Shipping & Packaging,72.94,19 online orders,False,Variable,2024,2,1
+2024-02-13,Cost of Goods Sold,830.0,Daily COGS,False,Variable,2024,2,1
+2024-02-13,Shipping & Packaging,29.74,11 online orders,False,Variable,2024,2,1
+2024-02-14,Cost of Goods Sold,1442.0,Daily COGS,False,Variable,2024,2,1
+2024-02-14,Shipping & Packaging,101.35,25 online orders,False,Variable,2024,2,1
+2024-02-15,Utilities,402.78,"Electricity, water, internet",False,Variable,2024,2,1
+2024-02-15,Cost of Goods Sold,497.0,Daily COGS,False,Variable,2024,2,1
+2024-02-15,Shipping & Packaging,20.93,7 online orders,False,Variable,2024,2,1
+2024-02-16,Payroll,2300.95,Weekly payroll - 4 staff,False,Variable,2024,2,1
+2024-02-16,Cost of Goods Sold,398.5,Daily COGS,False,Variable,2024,2,1
+2024-02-16,Shipping & Packaging,6.69,2 online orders,False,Variable,2024,2,1
+2024-02-17,Cost of Goods Sold,646.5,Daily COGS,False,Variable,2024,2,1
+2024-02-17,Shipping & Packaging,35.67,12 online orders,False,Variable,2024,2,1
+2024-02-18,Cost of Goods Sold,461.0,Daily COGS,False,Variable,2024,2,1
+2024-02-18,Shipping & Packaging,10.54,3 online orders,False,Variable,2024,2,1
+2024-02-19,Cost of Goods Sold,373.0,Daily COGS,False,Variable,2024,2,1
+2024-02-19,Marketing,131.13,Social media and promotions,False,Variable,2024,2,1
+2024-02-19,Shipping & Packaging,12.57,5 online orders,False,Variable,2024,2,1
+2024-02-20,Cost of Goods Sold,191.0,Daily COGS,False,Variable,2024,2,1
+2024-02-20,Shipping & Packaging,21.52,6 online orders,False,Variable,2024,2,1
+2024-02-21,Cost of Goods Sold,379.0,Daily COGS,False,Variable,2024,2,1
+2024-02-21,Shipping & Packaging,15.05,6 online orders,False,Variable,2024,2,1
+2024-02-22,Cost of Goods Sold,228.0,Daily COGS,False,Variable,2024,2,1
+2024-02-22,Shipping & Packaging,16.1,6 online orders,False,Variable,2024,2,1
+2024-02-23,Payroll,2492.32,Weekly payroll - 4 staff,False,Variable,2024,2,1
+2024-02-23,Cost of Goods Sold,591.0,Daily COGS,False,Variable,2024,2,1
+2024-02-23,Shipping & Packaging,24.26,6 online orders,False,Variable,2024,2,1
+2024-02-24,Cost of Goods Sold,591.0,Daily COGS,False,Variable,2024,2,1
+2024-02-24,Shipping & Packaging,24.81,9 online orders,False,Variable,2024,2,1
+2024-02-25,Cost of Goods Sold,563.5,Daily COGS,False,Variable,2024,2,1
+2024-02-25,Shipping & Packaging,31.37,9 online orders,False,Variable,2024,2,1
+2024-02-26,Cost of Goods Sold,284.0,Daily COGS,False,Variable,2024,2,1
+2024-02-26,Marketing,91.65,Social media and promotions,False,Variable,2024,2,1
+2024-02-26,Shipping & Packaging,15.17,6 online orders,False,Variable,2024,2,1
+2024-02-27,Cost of Goods Sold,414.0,Daily COGS,False,Variable,2024,2,1
+2024-02-27,Shipping & Packaging,10.64,4 online orders,False,Variable,2024,2,1
+2024-02-28,Cost of Goods Sold,262.5,Daily COGS,False,Variable,2024,2,1
+2024-02-28,Shipping & Packaging,16.46,6 online orders,False,Variable,2024,2,1
+2024-02-29,Cost of Goods Sold,463.0,Daily COGS,False,Variable,2024,2,1
+2024-02-29,Shipping & Packaging,12.93,4 online orders,False,Variable,2024,2,1
+2024-03-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,3,1
+2024-03-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,3,1
+2024-03-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,3,1
+2024-03-01,Payroll,2569.08,Weekly payroll - 4 staff,False,Variable,2024,3,1
+2024-03-01,Cost of Goods Sold,475.0,Daily COGS,False,Variable,2024,3,1
+2024-03-01,Shipping & Packaging,25.1,6 online orders,False,Variable,2024,3,1
+2024-03-02,Cost of Goods Sold,673.0,Daily COGS,False,Variable,2024,3,1
+2024-03-02,Shipping & Packaging,35.65,12 online orders,False,Variable,2024,3,1
+2024-03-03,Cost of Goods Sold,577.0,Daily COGS,False,Variable,2024,3,1
+2024-03-03,Shipping & Packaging,52.69,14 online orders,False,Variable,2024,3,1
+2024-03-04,Cost of Goods Sold,384.0,Daily COGS,False,Variable,2024,3,1
+2024-03-04,Marketing,196.16,Social media and promotions,False,Variable,2024,3,1
+2024-03-04,Shipping & Packaging,12.28,3 online orders,False,Variable,2024,3,1
+2024-03-05,Cost of Goods Sold,279.5,Daily COGS,False,Variable,2024,3,1
+2024-03-05,Shipping & Packaging,17.87,7 online orders,False,Variable,2024,3,1
+2024-03-06,Cost of Goods Sold,302.5,Daily COGS,False,Variable,2024,3,1
+2024-03-06,Shipping & Packaging,17.25,4 online orders,False,Variable,2024,3,1
+2024-03-07,Cost of Goods Sold,212.0,Daily COGS,False,Variable,2024,3,1
+2024-03-07,Shipping & Packaging,7.04,2 online orders,False,Variable,2024,3,1
+2024-03-08,Payroll,2417.87,Weekly payroll - 4 staff,False,Variable,2024,3,1
+2024-03-08,Cost of Goods Sold,176.0,Daily COGS,False,Variable,2024,3,1
+2024-03-08,Shipping & Packaging,15.91,5 online orders,False,Variable,2024,3,1
+2024-03-09,Cost of Goods Sold,356.0,Daily COGS,False,Variable,2024,3,1
+2024-03-09,Shipping & Packaging,31.24,8 online orders,False,Variable,2024,3,1
+2024-03-10,Cost of Goods Sold,484.0,Daily COGS,False,Variable,2024,3,1
+2024-03-10,Shipping & Packaging,34.14,9 online orders,False,Variable,2024,3,1
+2024-03-11,Cost of Goods Sold,115.0,Daily COGS,False,Variable,2024,3,1
+2024-03-11,Marketing,78.86,Social media and promotions,False,Variable,2024,3,1
+2024-03-11,Shipping & Packaging,18.53,5 online orders,False,Variable,2024,3,1
+2024-03-12,Cost of Goods Sold,653.5,Daily COGS,False,Variable,2024,3,1
+2024-03-12,Shipping & Packaging,28.51,7 online orders,False,Variable,2024,3,1
+2024-03-13,Cost of Goods Sold,240.0,Daily COGS,False,Variable,2024,3,1
+2024-03-13,Shipping & Packaging,12.76,3 online orders,False,Variable,2024,3,1
+2024-03-14,Cost of Goods Sold,304.5,Daily COGS,False,Variable,2024,3,1
+2024-03-14,Shipping & Packaging,20.83,5 online orders,False,Variable,2024,3,1
+2024-03-15,Utilities,352.48,"Electricity, water, internet",False,Variable,2024,3,1
+2024-03-15,Payroll,2552.33,Weekly payroll - 4 staff,False,Variable,2024,3,1
+2024-03-15,Cost of Goods Sold,446.0,Daily COGS,False,Variable,2024,3,1
+2024-03-15,Shipping & Packaging,36.0,12 online orders,False,Variable,2024,3,1
+2024-03-16,Cost of Goods Sold,429.5,Daily COGS,False,Variable,2024,3,1
+2024-03-16,Shipping & Packaging,21.66,8 online orders,False,Variable,2024,3,1
+2024-03-17,Cost of Goods Sold,597.5,Daily COGS,False,Variable,2024,3,1
+2024-03-17,Shipping & Packaging,36.87,12 online orders,False,Variable,2024,3,1
+2024-03-18,Cost of Goods Sold,373.0,Daily COGS,False,Variable,2024,3,1
+2024-03-18,Marketing,110.88,Social media and promotions,False,Variable,2024,3,1
+2024-03-18,Shipping & Packaging,14.66,4 online orders,False,Variable,2024,3,1
+2024-03-19,Cost of Goods Sold,229.0,Daily COGS,False,Variable,2024,3,1
+2024-03-19,Shipping & Packaging,19.78,6 online orders,False,Variable,2024,3,1
+2024-03-20,Cost of Goods Sold,666.5,Daily COGS,False,Variable,2024,3,1
+2024-03-20,Shipping & Packaging,50.35,14 online orders,False,Variable,2024,3,1
+2024-03-21,Cost of Goods Sold,729.5,Daily COGS,False,Variable,2024,3,1
+2024-03-21,Shipping & Packaging,60.52,18 online orders,False,Variable,2024,3,1
+2024-03-22,Payroll,2531.33,Weekly payroll - 4 staff,False,Variable,2024,3,1
+2024-03-22,Cost of Goods Sold,1306.0,Daily COGS,False,Variable,2024,3,1
+2024-03-22,Shipping & Packaging,67.14,18 online orders,False,Variable,2024,3,1
+2024-03-23,Cost of Goods Sold,1130.5,Daily COGS,False,Variable,2024,3,1
+2024-03-23,Shipping & Packaging,33.21,13 online orders,False,Variable,2024,3,1
+2024-03-24,Cost of Goods Sold,1028.0,Daily COGS,False,Variable,2024,3,1
+2024-03-24,Shipping & Packaging,58.89,19 online orders,False,Variable,2024,3,1
+2024-03-25,Cost of Goods Sold,1166.0,Daily COGS,False,Variable,2024,3,1
+2024-03-25,Marketing,401.06,Social media and promotions,False,Variable,2024,3,1
+2024-03-25,Shipping & Packaging,65.67,18 online orders,False,Variable,2024,3,1
+2024-03-26,Cost of Goods Sold,243.5,Daily COGS,False,Variable,2024,3,1
+2024-03-26,Shipping & Packaging,13.54,4 online orders,False,Variable,2024,3,1
+2024-03-27,Cost of Goods Sold,250.0,Daily COGS,False,Variable,2024,3,1
+2024-03-27,Shipping & Packaging,32.76,8 online orders,False,Variable,2024,3,1
+2024-03-28,Cost of Goods Sold,374.0,Daily COGS,False,Variable,2024,3,1
+2024-03-28,Shipping & Packaging,27.29,8 online orders,False,Variable,2024,3,1
+2024-03-29,Payroll,2281.15,Weekly payroll - 4 staff,False,Variable,2024,3,1
+2024-03-29,Cost of Goods Sold,427.0,Daily COGS,False,Variable,2024,3,1
+2024-03-29,Shipping & Packaging,20.13,8 online orders,False,Variable,2024,3,1
+2024-03-30,Cost of Goods Sold,589.0,Daily COGS,False,Variable,2024,3,1
+2024-03-30,Shipping & Packaging,37.38,13 online orders,False,Variable,2024,3,1
+2024-03-31,Cost of Goods Sold,479.5,Daily COGS,False,Variable,2024,3,1
+2024-03-31,Shipping & Packaging,52.11,12 online orders,False,Variable,2024,3,1
+2024-04-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,4,2
+2024-04-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,4,2
+2024-04-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,4,2
+2024-04-01,Cost of Goods Sold,359.5,Daily COGS,False,Variable,2024,4,2
+2024-04-01,Marketing,189.41,Social media and promotions,False,Variable,2024,4,2
+2024-04-01,Shipping & Packaging,46.81,11 online orders,False,Variable,2024,4,2
+2024-04-02,Cost of Goods Sold,388.0,Daily COGS,False,Variable,2024,4,2
+2024-04-02,Shipping & Packaging,20.16,7 online orders,False,Variable,2024,4,2
+2024-04-03,Cost of Goods Sold,190.5,Daily COGS,False,Variable,2024,4,2
+2024-04-03,Shipping & Packaging,12.63,3 online orders,False,Variable,2024,4,2
+2024-04-04,Cost of Goods Sold,214.0,Daily COGS,False,Variable,2024,4,2
+2024-04-04,Shipping & Packaging,12.77,3 online orders,False,Variable,2024,4,2
+2024-04-05,Payroll,2202.83,Weekly payroll - 4 staff,False,Variable,2024,4,2
+2024-04-05,Cost of Goods Sold,436.0,Daily COGS,False,Variable,2024,4,2
+2024-04-05,Shipping & Packaging,39.91,11 online orders,False,Variable,2024,4,2
+2024-04-06,Cost of Goods Sold,552.5,Daily COGS,False,Variable,2024,4,2
+2024-04-06,Shipping & Packaging,21.16,8 online orders,False,Variable,2024,4,2
+2024-04-07,Cost of Goods Sold,276.0,Daily COGS,False,Variable,2024,4,2
+2024-04-07,Shipping & Packaging,17.54,7 online orders,False,Variable,2024,4,2
+2024-04-08,Cost of Goods Sold,270.0,Daily COGS,False,Variable,2024,4,2
+2024-04-08,Marketing,111.61,Social media and promotions,False,Variable,2024,4,2
+2024-04-08,Shipping & Packaging,25.6,6 online orders,False,Variable,2024,4,2
+2024-04-09,Cost of Goods Sold,381.0,Daily COGS,False,Variable,2024,4,2
+2024-04-09,Shipping & Packaging,13.55,5 online orders,False,Variable,2024,4,2
+2024-04-10,Cost of Goods Sold,168.5,Daily COGS,False,Variable,2024,4,2
+2024-04-10,Shipping & Packaging,20.78,6 online orders,False,Variable,2024,4,2
+2024-04-11,Cost of Goods Sold,189.5,Daily COGS,False,Variable,2024,4,2
+2024-04-11,Shipping & Packaging,15.91,5 online orders,False,Variable,2024,4,2
+2024-04-12,Payroll,2338.08,Weekly payroll - 4 staff,False,Variable,2024,4,2
+2024-04-12,Cost of Goods Sold,187.5,Daily COGS,False,Variable,2024,4,2
+2024-04-12,Shipping & Packaging,25.95,6 online orders,False,Variable,2024,4,2
+2024-04-13,Cost of Goods Sold,358.5,Daily COGS,False,Variable,2024,4,2
+2024-04-13,Shipping & Packaging,41.07,11 online orders,False,Variable,2024,4,2
+2024-04-14,Cost of Goods Sold,504.5,Daily COGS,False,Variable,2024,4,2
+2024-04-14,Shipping & Packaging,16.47,6 online orders,False,Variable,2024,4,2
+2024-04-15,Utilities,346.97,"Electricity, water, internet",False,Variable,2024,4,2
+2024-04-15,Cost of Goods Sold,479.0,Daily COGS,False,Variable,2024,4,2
+2024-04-15,Marketing,116.25,Social media and promotions,False,Variable,2024,4,2
+2024-04-15,Shipping & Packaging,38.04,9 online orders,False,Variable,2024,4,2
+2024-04-16,Cost of Goods Sold,177.0,Daily COGS,False,Variable,2024,4,2
+2024-04-16,Shipping & Packaging,6.72,2 online orders,False,Variable,2024,4,2
+2024-04-17,Cost of Goods Sold,230.0,Daily COGS,False,Variable,2024,4,2
+2024-04-17,Shipping & Packaging,4.45,1 online orders,False,Variable,2024,4,2
+2024-04-18,Cost of Goods Sold,361.0,Daily COGS,False,Variable,2024,4,2
+2024-04-18,Shipping & Packaging,23.56,9 online orders,False,Variable,2024,4,2
+2024-04-19,Payroll,2517.23,Weekly payroll - 4 staff,False,Variable,2024,4,2
+2024-04-19,Cost of Goods Sold,191.5,Daily COGS,False,Variable,2024,4,2
+2024-04-19,Shipping & Packaging,24.69,6 online orders,False,Variable,2024,4,2
+2024-04-20,Cost of Goods Sold,408.5,Daily COGS,False,Variable,2024,4,2
+2024-04-20,Shipping & Packaging,17.78,4 online orders,False,Variable,2024,4,2
+2024-04-21,Cost of Goods Sold,483.0,Daily COGS,False,Variable,2024,4,2
+2024-04-21,Shipping & Packaging,31.41,10 online orders,False,Variable,2024,4,2
+2024-04-22,Cost of Goods Sold,354.5,Daily COGS,False,Variable,2024,4,2
+2024-04-22,Marketing,101.33,Social media and promotions,False,Variable,2024,4,2
+2024-04-22,Shipping & Packaging,22.09,5 online orders,False,Variable,2024,4,2
+2024-04-23,Cost of Goods Sold,307.5,Daily COGS,False,Variable,2024,4,2
+2024-04-23,Shipping & Packaging,19.31,6 online orders,False,Variable,2024,4,2
+2024-04-24,Cost of Goods Sold,304.0,Daily COGS,False,Variable,2024,4,2
+2024-04-24,Shipping & Packaging,17.05,5 online orders,False,Variable,2024,4,2
+2024-04-25,Cost of Goods Sold,332.0,Daily COGS,False,Variable,2024,4,2
+2024-04-25,Shipping & Packaging,16.01,4 online orders,False,Variable,2024,4,2
+2024-04-26,Payroll,2255.69,Weekly payroll - 4 staff,False,Variable,2024,4,2
+2024-04-26,Cost of Goods Sold,250.5,Daily COGS,False,Variable,2024,4,2
+2024-04-26,Shipping & Packaging,25.83,6 online orders,False,Variable,2024,4,2
+2024-04-27,Cost of Goods Sold,569.5,Daily COGS,False,Variable,2024,4,2
+2024-04-27,Shipping & Packaging,53.93,14 online orders,False,Variable,2024,4,2
+2024-04-28,Cost of Goods Sold,642.0,Daily COGS,False,Variable,2024,4,2
+2024-04-28,Shipping & Packaging,38.54,11 online orders,False,Variable,2024,4,2
+2024-04-29,Cost of Goods Sold,491.0,Daily COGS,False,Variable,2024,4,2
+2024-04-29,Marketing,139.52,Social media and promotions,False,Variable,2024,4,2
+2024-04-29,Shipping & Packaging,21.83,5 online orders,False,Variable,2024,4,2
+2024-04-30,Cost of Goods Sold,252.0,Daily COGS,False,Variable,2024,4,2
+2024-04-30,Shipping & Packaging,17.45,5 online orders,False,Variable,2024,4,2
+2024-05-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,5,2
+2024-05-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,5,2
+2024-05-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,5,2
+2024-05-01,Cost of Goods Sold,364.5,Daily COGS,False,Variable,2024,5,2
+2024-05-01,Shipping & Packaging,31.42,10 online orders,False,Variable,2024,5,2
+2024-05-02,Cost of Goods Sold,308.5,Daily COGS,False,Variable,2024,5,2
+2024-05-02,Shipping & Packaging,6.39,2 online orders,False,Variable,2024,5,2
+2024-05-03,Payroll,2526.46,Weekly payroll - 4 staff,False,Variable,2024,5,2
+2024-05-03,Cost of Goods Sold,309.0,Daily COGS,False,Variable,2024,5,2
+2024-05-03,Shipping & Packaging,13.57,5 online orders,False,Variable,2024,5,2
+2024-05-04,Cost of Goods Sold,534.5,Daily COGS,False,Variable,2024,5,2
+2024-05-04,Shipping & Packaging,35.48,9 online orders,False,Variable,2024,5,2
+2024-05-05,Cost of Goods Sold,441.0,Daily COGS,False,Variable,2024,5,2
+2024-05-05,Shipping & Packaging,40.66,11 online orders,False,Variable,2024,5,2
+2024-05-06,Cost of Goods Sold,228.5,Daily COGS,False,Variable,2024,5,2
+2024-05-06,Marketing,174.08,Social media and promotions,False,Variable,2024,5,2
+2024-05-06,Shipping & Packaging,31.92,11 online orders,False,Variable,2024,5,2
+2024-05-07,Cost of Goods Sold,348.0,Daily COGS,False,Variable,2024,5,2
+2024-05-07,Shipping & Packaging,17.46,5 online orders,False,Variable,2024,5,2
+2024-05-08,Cost of Goods Sold,244.0,Daily COGS,False,Variable,2024,5,2
+2024-05-08,Shipping & Packaging,25.05,8 online orders,False,Variable,2024,5,2
+2024-05-09,Cost of Goods Sold,381.0,Daily COGS,False,Variable,2024,5,2
+2024-05-09,Shipping & Packaging,18.98,7 online orders,False,Variable,2024,5,2
+2024-05-10,Payroll,2421.47,Weekly payroll - 4 staff,False,Variable,2024,5,2
+2024-05-10,Cost of Goods Sold,286.0,Daily COGS,False,Variable,2024,5,2
+2024-05-10,Shipping & Packaging,11.0,4 online orders,False,Variable,2024,5,2
+2024-05-11,Cost of Goods Sold,634.5,Daily COGS,False,Variable,2024,5,2
+2024-05-11,Shipping & Packaging,50.01,13 online orders,False,Variable,2024,5,2
+2024-05-12,Cost of Goods Sold,784.0,Daily COGS,False,Variable,2024,5,2
+2024-05-12,Shipping & Packaging,69.23,16 online orders,False,Variable,2024,5,2
+2024-05-13,Cost of Goods Sold,374.0,Daily COGS,False,Variable,2024,5,2
+2024-05-13,Marketing,75.37,Social media and promotions,False,Variable,2024,5,2
+2024-05-13,Shipping & Packaging,20.44,8 online orders,False,Variable,2024,5,2
+2024-05-14,Cost of Goods Sold,221.0,Daily COGS,False,Variable,2024,5,2
+2024-05-14,Shipping & Packaging,11.59,3 online orders,False,Variable,2024,5,2
+2024-05-15,Utilities,335.6,"Electricity, water, internet",False,Variable,2024,5,2
+2024-05-15,Cost of Goods Sold,362.5,Daily COGS,False,Variable,2024,5,2
+2024-05-15,Shipping & Packaging,21.37,7 online orders,False,Variable,2024,5,2
+2024-05-16,Cost of Goods Sold,430.5,Daily COGS,False,Variable,2024,5,2
+2024-05-16,Shipping & Packaging,33.11,10 online orders,False,Variable,2024,5,2
+2024-05-17,Payroll,2595.06,Weekly payroll - 4 staff,False,Variable,2024,5,2
+2024-05-17,Cost of Goods Sold,420.0,Daily COGS,False,Variable,2024,5,2
+2024-05-17,Shipping & Packaging,34.53,10 online orders,False,Variable,2024,5,2
+2024-05-18,Cost of Goods Sold,463.5,Daily COGS,False,Variable,2024,5,2
+2024-05-18,Shipping & Packaging,31.62,12 online orders,False,Variable,2024,5,2
+2024-05-19,Cost of Goods Sold,424.0,Daily COGS,False,Variable,2024,5,2
+2024-05-19,Shipping & Packaging,26.31,7 online orders,False,Variable,2024,5,2
+2024-05-20,Cost of Goods Sold,191.0,Daily COGS,False,Variable,2024,5,2
+2024-05-20,Marketing,56.48,Social media and promotions,False,Variable,2024,5,2
+2024-05-20,Shipping & Packaging,17.82,4 online orders,False,Variable,2024,5,2
+2024-05-21,Cost of Goods Sold,200.0,Daily COGS,False,Variable,2024,5,2
+2024-05-21,Shipping & Packaging,16.51,4 online orders,False,Variable,2024,5,2
+2024-05-22,Cost of Goods Sold,633.0,Daily COGS,False,Variable,2024,5,2
+2024-05-22,Shipping & Packaging,25.62,9 online orders,False,Variable,2024,5,2
+2024-05-23,Cost of Goods Sold,364.0,Daily COGS,False,Variable,2024,5,2
+2024-05-23,Shipping & Packaging,15.47,4 online orders,False,Variable,2024,5,2
+2024-05-24,Payroll,2399.58,Weekly payroll - 4 staff,False,Variable,2024,5,2
+2024-05-24,Cost of Goods Sold,403.5,Daily COGS,False,Variable,2024,5,2
+2024-05-24,Shipping & Packaging,28.71,9 online orders,False,Variable,2024,5,2
+2024-05-25,Cost of Goods Sold,374.0,Daily COGS,False,Variable,2024,5,2
+2024-05-25,Shipping & Packaging,34.63,8 online orders,False,Variable,2024,5,2
+2024-05-26,Cost of Goods Sold,326.0,Daily COGS,False,Variable,2024,5,2
+2024-05-26,Shipping & Packaging,17.22,4 online orders,False,Variable,2024,5,2
+2024-05-27,Cost of Goods Sold,361.0,Daily COGS,False,Variable,2024,5,2
+2024-05-27,Marketing,95.88,Social media and promotions,False,Variable,2024,5,2
+2024-05-27,Shipping & Packaging,13.86,4 online orders,False,Variable,2024,5,2
+2024-05-28,Cost of Goods Sold,158.0,Daily COGS,False,Variable,2024,5,2
+2024-05-28,Shipping & Packaging,13.24,3 online orders,False,Variable,2024,5,2
+2024-05-29,Cost of Goods Sold,267.5,Daily COGS,False,Variable,2024,5,2
+2024-05-29,Shipping & Packaging,5.22,2 online orders,False,Variable,2024,5,2
+2024-05-30,Cost of Goods Sold,226.0,Daily COGS,False,Variable,2024,5,2
+2024-05-30,Shipping & Packaging,12.55,4 online orders,False,Variable,2024,5,2
+2024-05-31,Payroll,2372.42,Weekly payroll - 4 staff,False,Variable,2024,5,2
+2024-05-31,Cost of Goods Sold,388.5,Daily COGS,False,Variable,2024,5,2
+2024-05-31,Shipping & Packaging,30.51,8 online orders,False,Variable,2024,5,2
+2024-06-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,6,2
+2024-06-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,6,2
+2024-06-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,6,2
+2024-06-01,Cost of Goods Sold,879.0,Daily COGS,False,Variable,2024,6,2
+2024-06-01,Shipping & Packaging,52.21,15 online orders,False,Variable,2024,6,2
+2024-06-02,Cost of Goods Sold,1156.5,Daily COGS,False,Variable,2024,6,2
+2024-06-02,Shipping & Packaging,64.2,18 online orders,False,Variable,2024,6,2
+2024-06-03,Cost of Goods Sold,653.0,Daily COGS,False,Variable,2024,6,2
+2024-06-03,Marketing,639.65,Social media and promotions,False,Variable,2024,6,2
+2024-06-03,Shipping & Packaging,41.16,11 online orders,False,Variable,2024,6,2
+2024-06-04,Cost of Goods Sold,912.0,Daily COGS,False,Variable,2024,6,2
+2024-06-04,Shipping & Packaging,66.65,21 online orders,False,Variable,2024,6,2
+2024-06-05,Cost of Goods Sold,867.5,Daily COGS,False,Variable,2024,6,2
+2024-06-05,Shipping & Packaging,73.49,17 online orders,False,Variable,2024,6,2
+2024-06-06,Cost of Goods Sold,836.5,Daily COGS,False,Variable,2024,6,2
+2024-06-06,Shipping & Packaging,60.39,21 online orders,False,Variable,2024,6,2
+2024-06-07,Payroll,2393.93,Weekly payroll - 4 staff,False,Variable,2024,6,2
+2024-06-07,Cost of Goods Sold,748.0,Daily COGS,False,Variable,2024,6,2
+2024-06-07,Shipping & Packaging,25.23,7 online orders,False,Variable,2024,6,2
+2024-06-08,Cost of Goods Sold,329.0,Daily COGS,False,Variable,2024,6,2
+2024-06-08,Shipping & Packaging,12.13,4 online orders,False,Variable,2024,6,2
+2024-06-09,Cost of Goods Sold,366.5,Daily COGS,False,Variable,2024,6,2
+2024-06-09,Shipping & Packaging,33.28,9 online orders,False,Variable,2024,6,2
+2024-06-10,Cost of Goods Sold,192.0,Daily COGS,False,Variable,2024,6,2
+2024-06-10,Marketing,198.46,Social media and promotions,False,Variable,2024,6,2
+2024-06-10,Shipping & Packaging,15.69,4 online orders,False,Variable,2024,6,2
+2024-06-11,Cost of Goods Sold,273.5,Daily COGS,False,Variable,2024,6,2
+2024-06-11,Shipping & Packaging,26.46,8 online orders,False,Variable,2024,6,2
+2024-06-12,Cost of Goods Sold,404.0,Daily COGS,False,Variable,2024,6,2
+2024-06-12,Shipping & Packaging,16.5,5 online orders,False,Variable,2024,6,2
+2024-06-13,Cost of Goods Sold,506.5,Daily COGS,False,Variable,2024,6,2
+2024-06-13,Shipping & Packaging,22.02,7 online orders,False,Variable,2024,6,2
+2024-06-14,Payroll,2456.9,Weekly payroll - 4 staff,False,Variable,2024,6,2
+2024-06-14,Cost of Goods Sold,239.0,Daily COGS,False,Variable,2024,6,2
+2024-06-14,Shipping & Packaging,18.4,6 online orders,False,Variable,2024,6,2
+2024-06-15,Utilities,316.24,"Electricity, water, internet",False,Variable,2024,6,2
+2024-06-15,Cost of Goods Sold,623.0,Daily COGS,False,Variable,2024,6,2
+2024-06-15,Shipping & Packaging,35.48,14 online orders,False,Variable,2024,6,2
+2024-06-16,Cost of Goods Sold,350.0,Daily COGS,False,Variable,2024,6,2
+2024-06-16,Shipping & Packaging,16.3,4 online orders,False,Variable,2024,6,2
+2024-06-17,Cost of Goods Sold,157.5,Daily COGS,False,Variable,2024,6,2
+2024-06-17,Marketing,76.82,Social media and promotions,False,Variable,2024,6,2
+2024-06-17,Shipping & Packaging,5.78,2 online orders,False,Variable,2024,6,2
+2024-06-18,Cost of Goods Sold,279.0,Daily COGS,False,Variable,2024,6,2
+2024-06-18,Shipping & Packaging,19.59,7 online orders,False,Variable,2024,6,2
+2024-06-19,Cost of Goods Sold,238.0,Daily COGS,False,Variable,2024,6,2
+2024-06-19,Shipping & Packaging,22.61,6 online orders,False,Variable,2024,6,2
+2024-06-20,Cost of Goods Sold,438.5,Daily COGS,False,Variable,2024,6,2
+2024-06-20,Shipping & Packaging,31.49,7 online orders,False,Variable,2024,6,2
+2024-06-21,Payroll,2556.08,Weekly payroll - 4 staff,False,Variable,2024,6,2
+2024-06-21,Cost of Goods Sold,324.0,Daily COGS,False,Variable,2024,6,2
+2024-06-21,Shipping & Packaging,14.53,4 online orders,False,Variable,2024,6,2
+2024-06-22,Cost of Goods Sold,279.0,Daily COGS,False,Variable,2024,6,2
+2024-06-22,Shipping & Packaging,27.25,10 online orders,False,Variable,2024,6,2
+2024-06-23,Cost of Goods Sold,570.5,Daily COGS,False,Variable,2024,6,2
+2024-06-23,Shipping & Packaging,18.06,6 online orders,False,Variable,2024,6,2
+2024-06-24,Cost of Goods Sold,375.0,Daily COGS,False,Variable,2024,6,2
+2024-06-24,Marketing,73.88,Social media and promotions,False,Variable,2024,6,2
+2024-06-24,Shipping & Packaging,18.17,6 online orders,False,Variable,2024,6,2
+2024-06-25,Cost of Goods Sold,239.0,Daily COGS,False,Variable,2024,6,2
+2024-06-25,Shipping & Packaging,21.5,5 online orders,False,Variable,2024,6,2
+2024-06-26,Cost of Goods Sold,507.0,Daily COGS,False,Variable,2024,6,2
+2024-06-26,Shipping & Packaging,25.25,8 online orders,False,Variable,2024,6,2
+2024-06-27,Cost of Goods Sold,128.0,Daily COGS,False,Variable,2024,6,2
+2024-06-27,Shipping & Packaging,7.26,2 online orders,False,Variable,2024,6,2
+2024-06-28,Payroll,2343.95,Weekly payroll - 4 staff,False,Variable,2024,6,2
+2024-06-28,Cost of Goods Sold,278.5,Daily COGS,False,Variable,2024,6,2
+2024-06-28,Shipping & Packaging,22.22,6 online orders,False,Variable,2024,6,2
+2024-06-29,Cost of Goods Sold,425.5,Daily COGS,False,Variable,2024,6,2
+2024-06-29,Shipping & Packaging,25.13,8 online orders,False,Variable,2024,6,2
+2024-06-30,Cost of Goods Sold,664.0,Daily COGS,False,Variable,2024,6,2
+2024-06-30,Shipping & Packaging,37.94,12 online orders,False,Variable,2024,6,2
+2024-07-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,7,3
+2024-07-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,7,3
+2024-07-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,7,3
+2024-07-01,Cost of Goods Sold,367.0,Daily COGS,False,Variable,2024,7,3
+2024-07-01,Marketing,151.89,Social media and promotions,False,Variable,2024,7,3
+2024-07-01,Shipping & Packaging,22.41,8 online orders,False,Variable,2024,7,3
+2024-07-02,Cost of Goods Sold,403.0,Daily COGS,False,Variable,2024,7,3
+2024-07-02,Shipping & Packaging,31.18,9 online orders,False,Variable,2024,7,3
+2024-07-03,Cost of Goods Sold,418.0,Daily COGS,False,Variable,2024,7,3
+2024-07-03,Shipping & Packaging,20.54,7 online orders,False,Variable,2024,7,3
+2024-07-04,Cost of Goods Sold,300.5,Daily COGS,False,Variable,2024,7,3
+2024-07-04,Shipping & Packaging,23.42,6 online orders,False,Variable,2024,7,3
+2024-07-05,Payroll,2209.37,Weekly payroll - 4 staff,False,Variable,2024,7,3
+2024-07-05,Cost of Goods Sold,175.0,Daily COGS,False,Variable,2024,7,3
+2024-07-05,Shipping & Packaging,19.1,7 online orders,False,Variable,2024,7,3
+2024-07-06,Cost of Goods Sold,449.0,Daily COGS,False,Variable,2024,7,3
+2024-07-06,Shipping & Packaging,28.12,8 online orders,False,Variable,2024,7,3
+2024-07-07,Cost of Goods Sold,210.0,Daily COGS,False,Variable,2024,7,3
+2024-07-07,Shipping & Packaging,25.71,7 online orders,False,Variable,2024,7,3
+2024-07-08,Cost of Goods Sold,276.5,Daily COGS,False,Variable,2024,7,3
+2024-07-08,Marketing,141.38,Social media and promotions,False,Variable,2024,7,3
+2024-07-08,Shipping & Packaging,18.2,6 online orders,False,Variable,2024,7,3
+2024-07-09,Cost of Goods Sold,286.5,Daily COGS,False,Variable,2024,7,3
+2024-07-09,Shipping & Packaging,24.26,8 online orders,False,Variable,2024,7,3
+2024-07-10,Cost of Goods Sold,198.0,Daily COGS,False,Variable,2024,7,3
+2024-07-10,Shipping & Packaging,10.64,3 online orders,False,Variable,2024,7,3
+2024-07-11,Cost of Goods Sold,251.5,Daily COGS,False,Variable,2024,7,3
+2024-07-11,Shipping & Packaging,28.26,9 online orders,False,Variable,2024,7,3
+2024-07-12,Payroll,2207.21,Weekly payroll - 4 staff,False,Variable,2024,7,3
+2024-07-12,Cost of Goods Sold,290.0,Daily COGS,False,Variable,2024,7,3
+2024-07-12,Shipping & Packaging,21.3,6 online orders,False,Variable,2024,7,3
+2024-07-13,Cost of Goods Sold,676.0,Daily COGS,False,Variable,2024,7,3
+2024-07-13,Shipping & Packaging,38.1,9 online orders,False,Variable,2024,7,3
+2024-07-14,Cost of Goods Sold,702.5,Daily COGS,False,Variable,2024,7,3
+2024-07-14,Shipping & Packaging,25.23,10 online orders,False,Variable,2024,7,3
+2024-07-15,Utilities,282.78,"Electricity, water, internet",False,Variable,2024,7,3
+2024-07-15,Cost of Goods Sold,302.5,Daily COGS,False,Variable,2024,7,3
+2024-07-15,Marketing,123.83,Social media and promotions,False,Variable,2024,7,3
+2024-07-15,Shipping & Packaging,25.28,6 online orders,False,Variable,2024,7,3
+2024-07-16,Cost of Goods Sold,374.5,Daily COGS,False,Variable,2024,7,3
+2024-07-16,Shipping & Packaging,31.32,8 online orders,False,Variable,2024,7,3
+2024-07-17,Cost of Goods Sold,275.0,Daily COGS,False,Variable,2024,7,3
+2024-07-17,Shipping & Packaging,8.95,2 online orders,False,Variable,2024,7,3
+2024-07-18,Cost of Goods Sold,431.5,Daily COGS,False,Variable,2024,7,3
+2024-07-18,Shipping & Packaging,35.67,8 online orders,False,Variable,2024,7,3
+2024-07-19,Payroll,2307.22,Weekly payroll - 4 staff,False,Variable,2024,7,3
+2024-07-19,Cost of Goods Sold,276.0,Daily COGS,False,Variable,2024,7,3
+2024-07-19,Shipping & Packaging,14.07,4 online orders,False,Variable,2024,7,3
+2024-07-20,Cost of Goods Sold,485.5,Daily COGS,False,Variable,2024,7,3
+2024-07-20,Shipping & Packaging,27.55,10 online orders,False,Variable,2024,7,3
+2024-07-21,Cost of Goods Sold,510.5,Daily COGS,False,Variable,2024,7,3
+2024-07-21,Shipping & Packaging,23.44,8 online orders,False,Variable,2024,7,3
+2024-07-22,Cost of Goods Sold,562.0,Daily COGS,False,Variable,2024,7,3
+2024-07-22,Marketing,174.23,Social media and promotions,False,Variable,2024,7,3
+2024-07-22,Shipping & Packaging,30.12,8 online orders,False,Variable,2024,7,3
+2024-07-23,Cost of Goods Sold,169.5,Daily COGS,False,Variable,2024,7,3
+2024-07-23,Shipping & Packaging,10.42,4 online orders,False,Variable,2024,7,3
+2024-07-24,Cost of Goods Sold,303.5,Daily COGS,False,Variable,2024,7,3
+2024-07-24,Shipping & Packaging,42.32,11 online orders,False,Variable,2024,7,3
+2024-07-25,Cost of Goods Sold,211.0,Daily COGS,False,Variable,2024,7,3
+2024-07-25,Shipping & Packaging,5.73,2 online orders,False,Variable,2024,7,3
+2024-07-26,Payroll,2287.43,Weekly payroll - 4 staff,False,Variable,2024,7,3
+2024-07-26,Cost of Goods Sold,286.5,Daily COGS,False,Variable,2024,7,3
+2024-07-26,Shipping & Packaging,10.62,3 online orders,False,Variable,2024,7,3
+2024-07-27,Cost of Goods Sold,572.0,Daily COGS,False,Variable,2024,7,3
+2024-07-27,Shipping & Packaging,44.9,16 online orders,False,Variable,2024,7,3
+2024-07-28,Cost of Goods Sold,509.0,Daily COGS,False,Variable,2024,7,3
+2024-07-28,Shipping & Packaging,34.29,8 online orders,False,Variable,2024,7,3
+2024-07-29,Cost of Goods Sold,361.0,Daily COGS,False,Variable,2024,7,3
+2024-07-29,Marketing,176.05,Social media and promotions,False,Variable,2024,7,3
+2024-07-29,Shipping & Packaging,25.15,6 online orders,False,Variable,2024,7,3
+2024-07-30,Cost of Goods Sold,217.0,Daily COGS,False,Variable,2024,7,3
+2024-07-30,Shipping & Packaging,17.44,5 online orders,False,Variable,2024,7,3
+2024-07-31,Cost of Goods Sold,358.0,Daily COGS,False,Variable,2024,7,3
+2024-07-31,Shipping & Packaging,41.52,10 online orders,False,Variable,2024,7,3
+2024-08-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,8,3
+2024-08-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,8,3
+2024-08-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,8,3
+2024-08-01,Cost of Goods Sold,347.5,Daily COGS,False,Variable,2024,8,3
+2024-08-01,Shipping & Packaging,35.34,9 online orders,False,Variable,2024,8,3
+2024-08-02,Payroll,2360.09,Weekly payroll - 4 staff,False,Variable,2024,8,3
+2024-08-02,Cost of Goods Sold,86.5,Daily COGS,False,Variable,2024,8,3
+2024-08-02,Shipping & Packaging,13.97,4 online orders,False,Variable,2024,8,3
+2024-08-03,Cost of Goods Sold,610.5,Daily COGS,False,Variable,2024,8,3
+2024-08-03,Shipping & Packaging,26.34,10 online orders,False,Variable,2024,8,3
+2024-08-04,Cost of Goods Sold,403.5,Daily COGS,False,Variable,2024,8,3
+2024-08-04,Shipping & Packaging,25.52,9 online orders,False,Variable,2024,8,3
+2024-08-05,Cost of Goods Sold,398.5,Daily COGS,False,Variable,2024,8,3
+2024-08-05,Marketing,123.42,Social media and promotions,False,Variable,2024,8,3
+2024-08-05,Shipping & Packaging,29.29,7 online orders,False,Variable,2024,8,3
+2024-08-06,Cost of Goods Sold,354.5,Daily COGS,False,Variable,2024,8,3
+2024-08-06,Shipping & Packaging,24.6,6 online orders,False,Variable,2024,8,3
+2024-08-07,Cost of Goods Sold,236.0,Daily COGS,False,Variable,2024,8,3
+2024-08-07,Shipping & Packaging,17.02,5 online orders,False,Variable,2024,8,3
+2024-08-08,Cost of Goods Sold,452.0,Daily COGS,False,Variable,2024,8,3
+2024-08-08,Shipping & Packaging,29.64,10 online orders,False,Variable,2024,8,3
+2024-08-09,Payroll,2249.2,Weekly payroll - 4 staff,False,Variable,2024,8,3
+2024-08-09,Cost of Goods Sold,276.5,Daily COGS,False,Variable,2024,8,3
+2024-08-09,Shipping & Packaging,10.38,3 online orders,False,Variable,2024,8,3
+2024-08-10,Cost of Goods Sold,400.5,Daily COGS,False,Variable,2024,8,3
+2024-08-10,Shipping & Packaging,23.85,8 online orders,False,Variable,2024,8,3
+2024-08-11,Cost of Goods Sold,595.5,Daily COGS,False,Variable,2024,8,3
+2024-08-11,Shipping & Packaging,43.06,13 online orders,False,Variable,2024,8,3
+2024-08-12,Cost of Goods Sold,164.5,Daily COGS,False,Variable,2024,8,3
+2024-08-12,Marketing,141.33,Social media and promotions,False,Variable,2024,8,3
+2024-08-13,Cost of Goods Sold,436.5,Daily COGS,False,Variable,2024,8,3
+2024-08-13,Shipping & Packaging,28.62,8 online orders,False,Variable,2024,8,3
+2024-08-14,Cost of Goods Sold,253.5,Daily COGS,False,Variable,2024,8,3
+2024-08-14,Shipping & Packaging,22.86,7 online orders,False,Variable,2024,8,3
+2024-08-15,Utilities,363.23,"Electricity, water, internet",False,Variable,2024,8,3
+2024-08-15,Cost of Goods Sold,1182.5,Daily COGS,False,Variable,2024,8,3
+2024-08-15,Shipping & Packaging,58.82,20 online orders,False,Variable,2024,8,3
+2024-08-16,Payroll,2246.58,Weekly payroll - 4 staff,False,Variable,2024,8,3
+2024-08-16,Cost of Goods Sold,1005.0,Daily COGS,False,Variable,2024,8,3
+2024-08-16,Shipping & Packaging,71.61,17 online orders,False,Variable,2024,8,3
+2024-08-17,Cost of Goods Sold,883.5,Daily COGS,False,Variable,2024,8,3
+2024-08-17,Shipping & Packaging,80.72,19 online orders,False,Variable,2024,8,3
+2024-08-18,Cost of Goods Sold,1121.5,Daily COGS,False,Variable,2024,8,3
+2024-08-18,Shipping & Packaging,41.71,14 online orders,False,Variable,2024,8,3
+2024-08-19,Cost of Goods Sold,733.5,Daily COGS,False,Variable,2024,8,3
+2024-08-19,Marketing,733.92,Social media and promotions,False,Variable,2024,8,3
+2024-08-19,Shipping & Packaging,60.71,17 online orders,False,Variable,2024,8,3
+2024-08-20,Cost of Goods Sold,959.5,Daily COGS,False,Variable,2024,8,3
+2024-08-20,Shipping & Packaging,70.49,25 online orders,False,Variable,2024,8,3
+2024-08-21,Cost of Goods Sold,461.5,Daily COGS,False,Variable,2024,8,3
+2024-08-21,Shipping & Packaging,47.71,13 online orders,False,Variable,2024,8,3
+2024-08-22,Cost of Goods Sold,1045.0,Daily COGS,False,Variable,2024,8,3
+2024-08-22,Shipping & Packaging,87.63,23 online orders,False,Variable,2024,8,3
+2024-08-23,Payroll,2587.32,Weekly payroll - 4 staff,False,Variable,2024,8,3
+2024-08-23,Cost of Goods Sold,864.0,Daily COGS,False,Variable,2024,8,3
+2024-08-23,Shipping & Packaging,69.79,21 online orders,False,Variable,2024,8,3
+2024-08-24,Cost of Goods Sold,570.5,Daily COGS,False,Variable,2024,8,3
+2024-08-24,Shipping & Packaging,39.72,15 online orders,False,Variable,2024,8,3
+2024-08-25,Cost of Goods Sold,750.5,Daily COGS,False,Variable,2024,8,3
+2024-08-25,Shipping & Packaging,47.58,15 online orders,False,Variable,2024,8,3
+2024-08-26,Cost of Goods Sold,172.0,Daily COGS,False,Variable,2024,8,3
+2024-08-26,Marketing,66.19,Social media and promotions,False,Variable,2024,8,3
+2024-08-26,Shipping & Packaging,14.38,4 online orders,False,Variable,2024,8,3
+2024-08-27,Cost of Goods Sold,131.5,Daily COGS,False,Variable,2024,8,3
+2024-08-27,Shipping & Packaging,17.86,4 online orders,False,Variable,2024,8,3
+2024-08-28,Cost of Goods Sold,444.0,Daily COGS,False,Variable,2024,8,3
+2024-08-28,Shipping & Packaging,20.16,8 online orders,False,Variable,2024,8,3
+2024-08-29,Cost of Goods Sold,269.0,Daily COGS,False,Variable,2024,8,3
+2024-08-29,Shipping & Packaging,34.96,9 online orders,False,Variable,2024,8,3
+2024-08-30,Payroll,2211.27,Weekly payroll - 4 staff,False,Variable,2024,8,3
+2024-08-30,Cost of Goods Sold,445.0,Daily COGS,False,Variable,2024,8,3
+2024-08-30,Shipping & Packaging,16.18,5 online orders,False,Variable,2024,8,3
+2024-08-31,Cost of Goods Sold,487.5,Daily COGS,False,Variable,2024,8,3
+2024-08-31,Shipping & Packaging,24.94,8 online orders,False,Variable,2024,8,3
+2024-09-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,9,3
+2024-09-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,9,3
+2024-09-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,9,3
+2024-09-01,Cost of Goods Sold,361.0,Daily COGS,False,Variable,2024,9,3
+2024-09-01,Shipping & Packaging,26.63,10 online orders,False,Variable,2024,9,3
+2024-09-02,Cost of Goods Sold,177.0,Daily COGS,False,Variable,2024,9,3
+2024-09-02,Marketing,132.99,Social media and promotions,False,Variable,2024,9,3
+2024-09-02,Shipping & Packaging,26.47,8 online orders,False,Variable,2024,9,3
+2024-09-03,Cost of Goods Sold,421.0,Daily COGS,False,Variable,2024,9,3
+2024-09-03,Shipping & Packaging,18.3,5 online orders,False,Variable,2024,9,3
+2024-09-04,Cost of Goods Sold,355.0,Daily COGS,False,Variable,2024,9,3
+2024-09-04,Shipping & Packaging,23.24,6 online orders,False,Variable,2024,9,3
+2024-09-05,Cost of Goods Sold,391.0,Daily COGS,False,Variable,2024,9,3
+2024-09-05,Shipping & Packaging,16.77,4 online orders,False,Variable,2024,9,3
+2024-09-06,Payroll,2408.45,Weekly payroll - 4 staff,False,Variable,2024,9,3
+2024-09-06,Cost of Goods Sold,239.0,Daily COGS,False,Variable,2024,9,3
+2024-09-06,Shipping & Packaging,7.63,2 online orders,False,Variable,2024,9,3
+2024-09-07,Cost of Goods Sold,352.0,Daily COGS,False,Variable,2024,9,3
+2024-09-07,Shipping & Packaging,25.15,7 online orders,False,Variable,2024,9,3
+2024-09-08,Cost of Goods Sold,399.5,Daily COGS,False,Variable,2024,9,3
+2024-09-08,Shipping & Packaging,25.08,8 online orders,False,Variable,2024,9,3
+2024-09-09,Cost of Goods Sold,206.0,Daily COGS,False,Variable,2024,9,3
+2024-09-09,Marketing,146.59,Social media and promotions,False,Variable,2024,9,3
+2024-09-09,Shipping & Packaging,11.92,3 online orders,False,Variable,2024,9,3
+2024-09-10,Cost of Goods Sold,351.0,Daily COGS,False,Variable,2024,9,3
+2024-09-10,Shipping & Packaging,25.98,6 online orders,False,Variable,2024,9,3
+2024-09-11,Cost of Goods Sold,354.5,Daily COGS,False,Variable,2024,9,3
+2024-09-11,Shipping & Packaging,19.33,5 online orders,False,Variable,2024,9,3
+2024-09-12,Cost of Goods Sold,550.0,Daily COGS,False,Variable,2024,9,3
+2024-09-12,Shipping & Packaging,26.96,6 online orders,False,Variable,2024,9,3
+2024-09-13,Payroll,2238.9,Weekly payroll - 4 staff,False,Variable,2024,9,3
+2024-09-13,Cost of Goods Sold,273.0,Daily COGS,False,Variable,2024,9,3
+2024-09-13,Shipping & Packaging,32.33,9 online orders,False,Variable,2024,9,3
+2024-09-14,Cost of Goods Sold,562.0,Daily COGS,False,Variable,2024,9,3
+2024-09-14,Shipping & Packaging,49.92,12 online orders,False,Variable,2024,9,3
+2024-09-15,Utilities,314.16,"Electricity, water, internet",False,Variable,2024,9,3
+2024-09-15,Cost of Goods Sold,446.0,Daily COGS,False,Variable,2024,9,3
+2024-09-15,Shipping & Packaging,41.11,11 online orders,False,Variable,2024,9,3
+2024-09-16,Cost of Goods Sold,187.5,Daily COGS,False,Variable,2024,9,3
+2024-09-16,Marketing,161.85,Social media and promotions,False,Variable,2024,9,3
+2024-09-16,Shipping & Packaging,2.76,1 online orders,False,Variable,2024,9,3
+2024-09-17,Cost of Goods Sold,253.0,Daily COGS,False,Variable,2024,9,3
+2024-09-17,Shipping & Packaging,16.79,4 online orders,False,Variable,2024,9,3
+2024-09-18,Cost of Goods Sold,350.5,Daily COGS,False,Variable,2024,9,3
+2024-09-18,Shipping & Packaging,15.77,5 online orders,False,Variable,2024,9,3
+2024-09-19,Cost of Goods Sold,262.0,Daily COGS,False,Variable,2024,9,3
+2024-09-19,Shipping & Packaging,20.9,6 online orders,False,Variable,2024,9,3
+2024-09-20,Payroll,2525.32,Weekly payroll - 4 staff,False,Variable,2024,9,3
+2024-09-20,Cost of Goods Sold,217.5,Daily COGS,False,Variable,2024,9,3
+2024-09-20,Shipping & Packaging,21.74,5 online orders,False,Variable,2024,9,3
+2024-09-21,Cost of Goods Sold,547.5,Daily COGS,False,Variable,2024,9,3
+2024-09-21,Shipping & Packaging,48.19,11 online orders,False,Variable,2024,9,3
+2024-09-22,Cost of Goods Sold,569.0,Daily COGS,False,Variable,2024,9,3
+2024-09-22,Shipping & Packaging,17.59,7 online orders,False,Variable,2024,9,3
+2024-09-23,Cost of Goods Sold,270.0,Daily COGS,False,Variable,2024,9,3
+2024-09-23,Marketing,193.29,Social media and promotions,False,Variable,2024,9,3
+2024-09-23,Shipping & Packaging,15.62,4 online orders,False,Variable,2024,9,3
+2024-09-24,Cost of Goods Sold,704.0,Daily COGS,False,Variable,2024,9,3
+2024-09-24,Shipping & Packaging,43.35,10 online orders,False,Variable,2024,9,3
+2024-09-25,Cost of Goods Sold,246.5,Daily COGS,False,Variable,2024,9,3
+2024-09-25,Shipping & Packaging,21.04,5 online orders,False,Variable,2024,9,3
+2024-09-26,Cost of Goods Sold,357.0,Daily COGS,False,Variable,2024,9,3
+2024-09-26,Shipping & Packaging,16.27,5 online orders,False,Variable,2024,9,3
+2024-09-27,Payroll,2273.92,Weekly payroll - 4 staff,False,Variable,2024,9,3
+2024-09-27,Cost of Goods Sold,462.5,Daily COGS,False,Variable,2024,9,3
+2024-09-27,Shipping & Packaging,28.05,8 online orders,False,Variable,2024,9,3
+2024-09-28,Cost of Goods Sold,404.5,Daily COGS,False,Variable,2024,9,3
+2024-09-28,Shipping & Packaging,25.75,7 online orders,False,Variable,2024,9,3
+2024-09-29,Cost of Goods Sold,378.0,Daily COGS,False,Variable,2024,9,3
+2024-09-29,Shipping & Packaging,31.0,9 online orders,False,Variable,2024,9,3
+2024-09-30,Cost of Goods Sold,212.0,Daily COGS,False,Variable,2024,9,3
+2024-09-30,Marketing,196.58,Social media and promotions,False,Variable,2024,9,3
+2024-09-30,Shipping & Packaging,22.22,5 online orders,False,Variable,2024,9,3
+2024-10-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,10,4
+2024-10-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,10,4
+2024-10-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,10,4
+2024-10-01,Cost of Goods Sold,353.0,Daily COGS,False,Variable,2024,10,4
+2024-10-01,Shipping & Packaging,16.87,4 online orders,False,Variable,2024,10,4
+2024-10-02,Cost of Goods Sold,339.5,Daily COGS,False,Variable,2024,10,4
+2024-10-02,Shipping & Packaging,25.81,7 online orders,False,Variable,2024,10,4
+2024-10-03,Cost of Goods Sold,556.5,Daily COGS,False,Variable,2024,10,4
+2024-10-03,Shipping & Packaging,29.04,7 online orders,False,Variable,2024,10,4
+2024-10-04,Payroll,2223.44,Weekly payroll - 4 staff,False,Variable,2024,10,4
+2024-10-04,Cost of Goods Sold,176.0,Daily COGS,False,Variable,2024,10,4
+2024-10-04,Shipping & Packaging,15.44,5 online orders,False,Variable,2024,10,4
+2024-10-05,Cost of Goods Sold,518.0,Daily COGS,False,Variable,2024,10,4
+2024-10-05,Shipping & Packaging,45.76,11 online orders,False,Variable,2024,10,4
+2024-10-06,Cost of Goods Sold,658.5,Daily COGS,False,Variable,2024,10,4
+2024-10-06,Shipping & Packaging,46.38,14 online orders,False,Variable,2024,10,4
+2024-10-07,Cost of Goods Sold,310.0,Daily COGS,False,Variable,2024,10,4
+2024-10-07,Marketing,59.54,Social media and promotions,False,Variable,2024,10,4
+2024-10-07,Shipping & Packaging,21.0,7 online orders,False,Variable,2024,10,4
+2024-10-08,Cost of Goods Sold,364.5,Daily COGS,False,Variable,2024,10,4
+2024-10-08,Shipping & Packaging,26.86,6 online orders,False,Variable,2024,10,4
+2024-10-09,Cost of Goods Sold,358.5,Daily COGS,False,Variable,2024,10,4
+2024-10-09,Shipping & Packaging,28.91,8 online orders,False,Variable,2024,10,4
+2024-10-10,Cost of Goods Sold,415.0,Daily COGS,False,Variable,2024,10,4
+2024-10-10,Shipping & Packaging,27.11,7 online orders,False,Variable,2024,10,4
+2024-10-11,Payroll,2494.54,Weekly payroll - 4 staff,False,Variable,2024,10,4
+2024-10-11,Cost of Goods Sold,306.5,Daily COGS,False,Variable,2024,10,4
+2024-10-11,Shipping & Packaging,29.15,9 online orders,False,Variable,2024,10,4
+2024-10-12,Cost of Goods Sold,469.5,Daily COGS,False,Variable,2024,10,4
+2024-10-12,Shipping & Packaging,57.02,14 online orders,False,Variable,2024,10,4
+2024-10-13,Cost of Goods Sold,552.0,Daily COGS,False,Variable,2024,10,4
+2024-10-13,Shipping & Packaging,18.37,7 online orders,False,Variable,2024,10,4
+2024-10-14,Cost of Goods Sold,352.0,Daily COGS,False,Variable,2024,10,4
+2024-10-14,Marketing,105.89,Social media and promotions,False,Variable,2024,10,4
+2024-10-14,Shipping & Packaging,35.98,9 online orders,False,Variable,2024,10,4
+2024-10-15,Utilities,364.66,"Electricity, water, internet",False,Variable,2024,10,4
+2024-10-15,Cost of Goods Sold,288.0,Daily COGS,False,Variable,2024,10,4
+2024-10-15,Shipping & Packaging,12.06,3 online orders,False,Variable,2024,10,4
+2024-10-16,Cost of Goods Sold,296.0,Daily COGS,False,Variable,2024,10,4
+2024-10-16,Shipping & Packaging,17.22,5 online orders,False,Variable,2024,10,4
+2024-10-17,Cost of Goods Sold,172.5,Daily COGS,False,Variable,2024,10,4
+2024-10-17,Shipping & Packaging,25.47,7 online orders,False,Variable,2024,10,4
+2024-10-18,Payroll,2339.34,Weekly payroll - 4 staff,False,Variable,2024,10,4
+2024-10-18,Cost of Goods Sold,445.0,Daily COGS,False,Variable,2024,10,4
+2024-10-18,Shipping & Packaging,22.73,6 online orders,False,Variable,2024,10,4
+2024-10-19,Cost of Goods Sold,482.5,Daily COGS,False,Variable,2024,10,4
+2024-10-19,Shipping & Packaging,38.06,10 online orders,False,Variable,2024,10,4
+2024-10-20,Cost of Goods Sold,633.5,Daily COGS,False,Variable,2024,10,4
+2024-10-20,Shipping & Packaging,54.66,13 online orders,False,Variable,2024,10,4
+2024-10-21,Cost of Goods Sold,341.0,Daily COGS,False,Variable,2024,10,4
+2024-10-21,Marketing,51.39,Social media and promotions,False,Variable,2024,10,4
+2024-10-21,Shipping & Packaging,23.05,6 online orders,False,Variable,2024,10,4
+2024-10-22,Cost of Goods Sold,426.0,Daily COGS,False,Variable,2024,10,4
+2024-10-22,Shipping & Packaging,23.19,7 online orders,False,Variable,2024,10,4
+2024-10-23,Cost of Goods Sold,169.0,Daily COGS,False,Variable,2024,10,4
+2024-10-23,Shipping & Packaging,17.98,4 online orders,False,Variable,2024,10,4
+2024-10-24,Cost of Goods Sold,494.0,Daily COGS,False,Variable,2024,10,4
+2024-10-24,Shipping & Packaging,29.83,8 online orders,False,Variable,2024,10,4
+2024-10-25,Payroll,2218.55,Weekly payroll - 4 staff,False,Variable,2024,10,4
+2024-10-25,Cost of Goods Sold,419.0,Daily COGS,False,Variable,2024,10,4
+2024-10-25,Shipping & Packaging,17.45,6 online orders,False,Variable,2024,10,4
+2024-10-26,Cost of Goods Sold,465.5,Daily COGS,False,Variable,2024,10,4
+2024-10-26,Shipping & Packaging,30.28,8 online orders,False,Variable,2024,10,4
+2024-10-27,Cost of Goods Sold,671.0,Daily COGS,False,Variable,2024,10,4
+2024-10-27,Shipping & Packaging,23.7,7 online orders,False,Variable,2024,10,4
+2024-10-28,Cost of Goods Sold,318.0,Daily COGS,False,Variable,2024,10,4
+2024-10-28,Marketing,173.98,Social media and promotions,False,Variable,2024,10,4
+2024-10-28,Shipping & Packaging,14.59,5 online orders,False,Variable,2024,10,4
+2024-10-29,Cost of Goods Sold,413.5,Daily COGS,False,Variable,2024,10,4
+2024-10-29,Shipping & Packaging,35.91,9 online orders,False,Variable,2024,10,4
+2024-10-30,Cost of Goods Sold,217.0,Daily COGS,False,Variable,2024,10,4
+2024-10-30,Shipping & Packaging,13.06,3 online orders,False,Variable,2024,10,4
+2024-10-31,Cost of Goods Sold,362.5,Daily COGS,False,Variable,2024,10,4
+2024-10-31,Shipping & Packaging,20.08,5 online orders,False,Variable,2024,10,4
+2024-11-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,11,4
+2024-11-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,11,4
+2024-11-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,11,4
+2024-11-01,Payroll,2373.81,Weekly payroll - 4 staff,False,Variable,2024,11,4
+2024-11-01,Cost of Goods Sold,301.0,Daily COGS,False,Variable,2024,11,4
+2024-11-01,Shipping & Packaging,25.7,9 online orders,False,Variable,2024,11,4
+2024-11-02,Cost of Goods Sold,431.0,Daily COGS,False,Variable,2024,11,4
+2024-11-02,Shipping & Packaging,12.71,5 online orders,False,Variable,2024,11,4
+2024-11-03,Cost of Goods Sold,478.5,Daily COGS,False,Variable,2024,11,4
+2024-11-03,Shipping & Packaging,34.27,13 online orders,False,Variable,2024,11,4
+2024-11-04,Cost of Goods Sold,245.0,Daily COGS,False,Variable,2024,11,4
+2024-11-04,Marketing,118.48,Social media and promotions,False,Variable,2024,11,4
+2024-11-04,Shipping & Packaging,6.13,2 online orders,False,Variable,2024,11,4
+2024-11-05,Cost of Goods Sold,227.0,Daily COGS,False,Variable,2024,11,4
+2024-11-05,Shipping & Packaging,33.39,8 online orders,False,Variable,2024,11,4
+2024-11-06,Cost of Goods Sold,287.0,Daily COGS,False,Variable,2024,11,4
+2024-11-06,Shipping & Packaging,17.95,5 online orders,False,Variable,2024,11,4
+2024-11-07,Cost of Goods Sold,455.0,Daily COGS,False,Variable,2024,11,4
+2024-11-07,Shipping & Packaging,11.67,4 online orders,False,Variable,2024,11,4
+2024-11-08,Payroll,2434.64,Weekly payroll - 4 staff,False,Variable,2024,11,4
+2024-11-08,Cost of Goods Sold,181.5,Daily COGS,False,Variable,2024,11,4
+2024-11-08,Shipping & Packaging,15.47,4 online orders,False,Variable,2024,11,4
+2024-11-09,Cost of Goods Sold,814.0,Daily COGS,False,Variable,2024,11,4
+2024-11-09,Shipping & Packaging,49.58,13 online orders,False,Variable,2024,11,4
+2024-11-10,Cost of Goods Sold,551.5,Daily COGS,False,Variable,2024,11,4
+2024-11-10,Shipping & Packaging,31.9,10 online orders,False,Variable,2024,11,4
+2024-11-11,Cost of Goods Sold,418.5,Daily COGS,False,Variable,2024,11,4
+2024-11-11,Marketing,170.44,Social media and promotions,False,Variable,2024,11,4
+2024-11-11,Shipping & Packaging,27.77,8 online orders,False,Variable,2024,11,4
+2024-11-12,Cost of Goods Sold,521.0,Daily COGS,False,Variable,2024,11,4
+2024-11-12,Shipping & Packaging,40.04,10 online orders,False,Variable,2024,11,4
+2024-11-13,Cost of Goods Sold,354.0,Daily COGS,False,Variable,2024,11,4
+2024-11-13,Shipping & Packaging,25.42,8 online orders,False,Variable,2024,11,4
+2024-11-14,Cost of Goods Sold,378.0,Daily COGS,False,Variable,2024,11,4
+2024-11-14,Shipping & Packaging,27.06,7 online orders,False,Variable,2024,11,4
+2024-11-15,Utilities,304.49,"Electricity, water, internet",False,Variable,2024,11,4
+2024-11-15,Payroll,2477.5,Weekly payroll - 4 staff,False,Variable,2024,11,4
+2024-11-15,Cost of Goods Sold,307.0,Daily COGS,False,Variable,2024,11,4
+2024-11-15,Shipping & Packaging,15.12,6 online orders,False,Variable,2024,11,4
+2024-11-16,Cost of Goods Sold,792.5,Daily COGS,False,Variable,2024,11,4
+2024-11-16,Shipping & Packaging,51.11,13 online orders,False,Variable,2024,11,4
+2024-11-17,Cost of Goods Sold,513.0,Daily COGS,False,Variable,2024,11,4
+2024-11-17,Shipping & Packaging,34.88,10 online orders,False,Variable,2024,11,4
+2024-11-18,Cost of Goods Sold,414.0,Daily COGS,False,Variable,2024,11,4
+2024-11-18,Marketing,151.3,Social media and promotions,False,Variable,2024,11,4
+2024-11-18,Shipping & Packaging,16.2,4 online orders,False,Variable,2024,11,4
+2024-11-19,Cost of Goods Sold,358.0,Daily COGS,False,Variable,2024,11,4
+2024-11-19,Shipping & Packaging,25.44,10 online orders,False,Variable,2024,11,4
+2024-11-20,Cost of Goods Sold,320.0,Daily COGS,False,Variable,2024,11,4
+2024-11-20,Shipping & Packaging,25.8,7 online orders,False,Variable,2024,11,4
+2024-11-21,Cost of Goods Sold,384.0,Daily COGS,False,Variable,2024,11,4
+2024-11-21,Shipping & Packaging,30.26,10 online orders,False,Variable,2024,11,4
+2024-11-22,Payroll,2469.09,Weekly payroll - 4 staff,False,Variable,2024,11,4
+2024-11-22,Cost of Goods Sold,159.5,Daily COGS,False,Variable,2024,11,4
+2024-11-22,Shipping & Packaging,16.79,4 online orders,False,Variable,2024,11,4
+2024-11-23,Cost of Goods Sold,477.0,Daily COGS,False,Variable,2024,11,4
+2024-11-23,Shipping & Packaging,36.71,12 online orders,False,Variable,2024,11,4
+2024-11-24,Cost of Goods Sold,418.0,Daily COGS,False,Variable,2024,11,4
+2024-11-24,Shipping & Packaging,28.16,8 online orders,False,Variable,2024,11,4
+2024-11-25,Cost of Goods Sold,206.5,Daily COGS,False,Variable,2024,11,4
+2024-11-25,Marketing,129.58,Social media and promotions,False,Variable,2024,11,4
+2024-11-25,Shipping & Packaging,18.34,6 online orders,False,Variable,2024,11,4
+2024-11-26,Cost of Goods Sold,584.5,Daily COGS,False,Variable,2024,11,4
+2024-11-26,Shipping & Packaging,25.42,6 online orders,False,Variable,2024,11,4
+2024-11-27,Cost of Goods Sold,161.0,Daily COGS,False,Variable,2024,11,4
+2024-11-27,Shipping & Packaging,17.83,4 online orders,False,Variable,2024,11,4
+2024-11-28,Cost of Goods Sold,243.0,Daily COGS,False,Variable,2024,11,4
+2024-11-28,Shipping & Packaging,7.56,2 online orders,False,Variable,2024,11,4
+2024-11-29,Payroll,2286.56,Weekly payroll - 4 staff,False,Variable,2024,11,4
+2024-11-29,Cost of Goods Sold,949.5,Daily COGS,False,Variable,2024,11,4
+2024-11-29,Shipping & Packaging,70.11,21 online orders,False,Variable,2024,11,4
+2024-11-30,Cost of Goods Sold,1671.5,Daily COGS,False,Variable,2024,11,4
+2024-11-30,Shipping & Packaging,41.91,15 online orders,False,Variable,2024,11,4
+2024-12-01,Rent,3500.0,Monthly store rent,True,Fixed,2024,12,4
+2024-12-01,Insurance,400.0,Business insurance premium,True,Fixed,2024,12,4
+2024-12-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2024,12,4
+2024-12-01,Cost of Goods Sold,732.0,Daily COGS,False,Variable,2024,12,4
+2024-12-01,Shipping & Packaging,58.61,17 online orders,False,Variable,2024,12,4
+2024-12-02,Cost of Goods Sold,993.5,Daily COGS,False,Variable,2024,12,4
+2024-12-02,Marketing,818.02,Social media and promotions,False,Variable,2024,12,4
+2024-12-02,Shipping & Packaging,36.77,14 online orders,False,Variable,2024,12,4
+2024-12-03,Cost of Goods Sold,415.5,Daily COGS,False,Variable,2024,12,4
+2024-12-03,Shipping & Packaging,26.53,7 online orders,False,Variable,2024,12,4
+2024-12-04,Cost of Goods Sold,312.0,Daily COGS,False,Variable,2024,12,4
+2024-12-04,Shipping & Packaging,10.15,4 online orders,False,Variable,2024,12,4
+2024-12-05,Cost of Goods Sold,228.0,Daily COGS,False,Variable,2024,12,4
+2024-12-05,Shipping & Packaging,18.25,6 online orders,False,Variable,2024,12,4
+2024-12-06,Payroll,2393.51,Weekly payroll - 4 staff,False,Variable,2024,12,4
+2024-12-06,Cost of Goods Sold,230.5,Daily COGS,False,Variable,2024,12,4
+2024-12-06,Shipping & Packaging,15.86,4 online orders,False,Variable,2024,12,4
+2024-12-07,Cost of Goods Sold,345.0,Daily COGS,False,Variable,2024,12,4
+2024-12-07,Shipping & Packaging,39.83,10 online orders,False,Variable,2024,12,4
+2024-12-08,Cost of Goods Sold,307.5,Daily COGS,False,Variable,2024,12,4
+2024-12-08,Shipping & Packaging,25.01,9 online orders,False,Variable,2024,12,4
+2024-12-09,Cost of Goods Sold,353.0,Daily COGS,False,Variable,2024,12,4
+2024-12-09,Marketing,75.95,Social media and promotions,False,Variable,2024,12,4
+2024-12-09,Shipping & Packaging,34.06,8 online orders,False,Variable,2024,12,4
+2024-12-10,Cost of Goods Sold,314.5,Daily COGS,False,Variable,2024,12,4
+2024-12-10,Shipping & Packaging,10.4,4 online orders,False,Variable,2024,12,4
+2024-12-11,Cost of Goods Sold,472.0,Daily COGS,False,Variable,2024,12,4
+2024-12-11,Shipping & Packaging,21.84,6 online orders,False,Variable,2024,12,4
+2024-12-12,Cost of Goods Sold,176.0,Daily COGS,False,Variable,2024,12,4
+2024-12-12,Shipping & Packaging,19.42,6 online orders,False,Variable,2024,12,4
+2024-12-13,Payroll,2474.52,Weekly payroll - 4 staff,False,Variable,2024,12,4
+2024-12-13,Cost of Goods Sold,432.0,Daily COGS,False,Variable,2024,12,4
+2024-12-13,Shipping & Packaging,22.38,6 online orders,False,Variable,2024,12,4
+2024-12-14,Cost of Goods Sold,432.0,Daily COGS,False,Variable,2024,12,4
+2024-12-14,Shipping & Packaging,38.13,10 online orders,False,Variable,2024,12,4
+2024-12-15,Utilities,330.51,"Electricity, water, internet",False,Variable,2024,12,4
+2024-12-15,Cost of Goods Sold,549.0,Daily COGS,False,Variable,2024,12,4
+2024-12-15,Shipping & Packaging,25.9,6 online orders,False,Variable,2024,12,4
+2024-12-16,Cost of Goods Sold,491.0,Daily COGS,False,Variable,2024,12,4
+2024-12-16,Marketing,119.56,Social media and promotions,False,Variable,2024,12,4
+2024-12-16,Shipping & Packaging,24.54,8 online orders,False,Variable,2024,12,4
+2024-12-17,Cost of Goods Sold,344.0,Daily COGS,False,Variable,2024,12,4
+2024-12-17,Shipping & Packaging,35.8,10 online orders,False,Variable,2024,12,4
+2024-12-18,Cost of Goods Sold,333.5,Daily COGS,False,Variable,2024,12,4
+2024-12-18,Shipping & Packaging,20.47,5 online orders,False,Variable,2024,12,4
+2024-12-19,Cost of Goods Sold,359.0,Daily COGS,False,Variable,2024,12,4
+2024-12-19,Shipping & Packaging,24.56,7 online orders,False,Variable,2024,12,4
+2024-12-20,Payroll,2253.01,Weekly payroll - 4 staff,False,Variable,2024,12,4
+2024-12-20,Cost of Goods Sold,1089.0,Daily COGS,False,Variable,2024,12,4
+2024-12-20,Shipping & Packaging,43.16,17 online orders,False,Variable,2024,12,4
+2024-12-21,Cost of Goods Sold,913.0,Daily COGS,False,Variable,2024,12,4
+2024-12-21,Shipping & Packaging,33.14,10 online orders,False,Variable,2024,12,4
+2024-12-22,Cost of Goods Sold,1598.0,Daily COGS,False,Variable,2024,12,4
+2024-12-22,Shipping & Packaging,87.84,20 online orders,False,Variable,2024,12,4
+2024-12-23,Cost of Goods Sold,766.5,Daily COGS,False,Variable,2024,12,4
+2024-12-23,Marketing,588.36,Social media and promotions,False,Variable,2024,12,4
+2024-12-23,Shipping & Packaging,69.72,21 online orders,False,Variable,2024,12,4
+2024-12-24,Cost of Goods Sold,1069.0,Daily COGS,False,Variable,2024,12,4
+2024-12-24,Shipping & Packaging,64.04,21 online orders,False,Variable,2024,12,4
+2024-12-25,Cost of Goods Sold,937.5,Daily COGS,False,Variable,2024,12,4
+2024-12-25,Shipping & Packaging,37.54,10 online orders,False,Variable,2024,12,4
+2024-12-26,Cost of Goods Sold,802.0,Daily COGS,False,Variable,2024,12,4
+2024-12-26,Shipping & Packaging,40.62,11 online orders,False,Variable,2024,12,4
+2024-12-27,Payroll,2225.52,Weekly payroll - 4 staff,False,Variable,2024,12,4
+2024-12-27,Cost of Goods Sold,525.0,Daily COGS,False,Variable,2024,12,4
+2024-12-27,Shipping & Packaging,29.2,9 online orders,False,Variable,2024,12,4
+2024-12-28,Cost of Goods Sold,655.5,Daily COGS,False,Variable,2024,12,4
+2024-12-28,Shipping & Packaging,41.97,14 online orders,False,Variable,2024,12,4
+2024-12-29,Cost of Goods Sold,416.0,Daily COGS,False,Variable,2024,12,4
+2024-12-29,Shipping & Packaging,29.42,8 online orders,False,Variable,2024,12,4
+2024-12-30,Cost of Goods Sold,360.0,Daily COGS,False,Variable,2024,12,4
+2024-12-30,Marketing,164.89,Social media and promotions,False,Variable,2024,12,4
+2024-12-30,Shipping & Packaging,22.93,8 online orders,False,Variable,2024,12,4
+2024-12-31,Cost of Goods Sold,304.5,Daily COGS,False,Variable,2024,12,4
+2024-12-31,Shipping & Packaging,26.53,7 online orders,False,Variable,2024,12,4
+2025-01-01,Rent,3500.0,Monthly store rent,True,Fixed,2025,1,1
+2025-01-01,Insurance,400.0,Business insurance premium,True,Fixed,2025,1,1
+2025-01-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2025,1,1
+2025-01-01,Cost of Goods Sold,1386.0,Daily COGS,False,Variable,2025,1,1
+2025-01-01,Shipping & Packaging,100.26,23 online orders,False,Variable,2025,1,1
+2025-01-02,Cost of Goods Sold,882.5,Daily COGS,False,Variable,2025,1,1
+2025-01-02,Shipping & Packaging,59.46,14 online orders,False,Variable,2025,1,1
+2025-01-03,Payroll,2595.52,Weekly payroll - 4 staff,False,Variable,2025,1,1
+2025-01-03,Cost of Goods Sold,757.0,Daily COGS,False,Variable,2025,1,1
+2025-01-03,Shipping & Packaging,36.43,10 online orders,False,Variable,2025,1,1
+2025-01-04,Cost of Goods Sold,1127.5,Daily COGS,False,Variable,2025,1,1
+2025-01-04,Shipping & Packaging,46.51,18 online orders,False,Variable,2025,1,1
+2025-01-05,Cost of Goods Sold,801.5,Daily COGS,False,Variable,2025,1,1
+2025-01-05,Shipping & Packaging,58.29,13 online orders,False,Variable,2025,1,1
+2025-01-06,Cost of Goods Sold,482.0,Daily COGS,False,Variable,2025,1,1
+2025-01-06,Marketing,157.33,Social media and promotions,False,Variable,2025,1,1
+2025-01-06,Shipping & Packaging,19.81,6 online orders,False,Variable,2025,1,1
+2025-01-07,Cost of Goods Sold,432.0,Daily COGS,False,Variable,2025,1,1
+2025-01-07,Shipping & Packaging,25.64,6 online orders,False,Variable,2025,1,1
+2025-01-08,Cost of Goods Sold,304.0,Daily COGS,False,Variable,2025,1,1
+2025-01-08,Shipping & Packaging,19.35,6 online orders,False,Variable,2025,1,1
+2025-01-09,Cost of Goods Sold,652.0,Daily COGS,False,Variable,2025,1,1
+2025-01-09,Shipping & Packaging,30.84,9 online orders,False,Variable,2025,1,1
+2025-01-10,Payroll,2396.81,Weekly payroll - 4 staff,False,Variable,2025,1,1
+2025-01-10,Cost of Goods Sold,360.5,Daily COGS,False,Variable,2025,1,1
+2025-01-10,Shipping & Packaging,31.04,7 online orders,False,Variable,2025,1,1
+2025-01-11,Cost of Goods Sold,679.0,Daily COGS,False,Variable,2025,1,1
+2025-01-11,Shipping & Packaging,48.14,12 online orders,False,Variable,2025,1,1
+2025-01-12,Cost of Goods Sold,650.0,Daily COGS,False,Variable,2025,1,1
+2025-01-12,Shipping & Packaging,22.55,8 online orders,False,Variable,2025,1,1
+2025-01-13,Cost of Goods Sold,575.5,Daily COGS,False,Variable,2025,1,1
+2025-01-13,Marketing,150.62,Social media and promotions,False,Variable,2025,1,1
+2025-01-13,Shipping & Packaging,35.02,12 online orders,False,Variable,2025,1,1
+2025-01-14,Cost of Goods Sold,695.0,Daily COGS,False,Variable,2025,1,1
+2025-01-14,Shipping & Packaging,27.08,7 online orders,False,Variable,2025,1,1
+2025-01-15,Utilities,335.02,"Electricity, water, internet",False,Variable,2025,1,1
+2025-01-15,Cost of Goods Sold,373.0,Daily COGS,False,Variable,2025,1,1
+2025-01-15,Shipping & Packaging,6.67,2 online orders,False,Variable,2025,1,1
+2025-01-16,Cost of Goods Sold,297.0,Daily COGS,False,Variable,2025,1,1
+2025-01-16,Shipping & Packaging,16.88,5 online orders,False,Variable,2025,1,1
+2025-01-17,Payroll,2410.3,Weekly payroll - 4 staff,False,Variable,2025,1,1
+2025-01-17,Cost of Goods Sold,382.0,Daily COGS,False,Variable,2025,1,1
+2025-01-17,Shipping & Packaging,28.55,7 online orders,False,Variable,2025,1,1
+2025-01-18,Cost of Goods Sold,666.5,Daily COGS,False,Variable,2025,1,1
+2025-01-18,Shipping & Packaging,30.82,10 online orders,False,Variable,2025,1,1
+2025-01-19,Cost of Goods Sold,714.0,Daily COGS,False,Variable,2025,1,1
+2025-01-19,Shipping & Packaging,33.62,10 online orders,False,Variable,2025,1,1
+2025-01-20,Cost of Goods Sold,390.5,Daily COGS,False,Variable,2025,1,1
+2025-01-20,Marketing,100.34,Social media and promotions,False,Variable,2025,1,1
+2025-01-20,Shipping & Packaging,22.82,6 online orders,False,Variable,2025,1,1
+2025-01-21,Cost of Goods Sold,297.0,Daily COGS,False,Variable,2025,1,1
+2025-01-21,Shipping & Packaging,17.61,6 online orders,False,Variable,2025,1,1
+2025-01-22,Cost of Goods Sold,380.5,Daily COGS,False,Variable,2025,1,1
+2025-01-22,Shipping & Packaging,19.3,6 online orders,False,Variable,2025,1,1
+2025-01-23,Cost of Goods Sold,333.0,Daily COGS,False,Variable,2025,1,1
+2025-01-23,Shipping & Packaging,18.2,6 online orders,False,Variable,2025,1,1
+2025-01-24,Payroll,2402.09,Weekly payroll - 4 staff,False,Variable,2025,1,1
+2025-01-24,Cost of Goods Sold,312.0,Daily COGS,False,Variable,2025,1,1
+2025-01-24,Shipping & Packaging,11.68,3 online orders,False,Variable,2025,1,1
+2025-01-25,Cost of Goods Sold,626.5,Daily COGS,False,Variable,2025,1,1
+2025-01-25,Shipping & Packaging,50.78,13 online orders,False,Variable,2025,1,1
+2025-01-26,Cost of Goods Sold,427.0,Daily COGS,False,Variable,2025,1,1
+2025-01-26,Shipping & Packaging,20.85,5 online orders,False,Variable,2025,1,1
+2025-01-27,Cost of Goods Sold,293.0,Daily COGS,False,Variable,2025,1,1
+2025-01-27,Marketing,98.11,Social media and promotions,False,Variable,2025,1,1
+2025-01-27,Shipping & Packaging,13.84,5 online orders,False,Variable,2025,1,1
+2025-01-28,Cost of Goods Sold,370.0,Daily COGS,False,Variable,2025,1,1
+2025-01-28,Shipping & Packaging,24.54,6 online orders,False,Variable,2025,1,1
+2025-01-29,Cost of Goods Sold,380.0,Daily COGS,False,Variable,2025,1,1
+2025-01-29,Shipping & Packaging,23.18,7 online orders,False,Variable,2025,1,1
+2025-01-30,Cost of Goods Sold,382.0,Daily COGS,False,Variable,2025,1,1
+2025-01-30,Shipping & Packaging,12.88,5 online orders,False,Variable,2025,1,1
+2025-01-31,Payroll,2520.17,Weekly payroll - 4 staff,False,Variable,2025,1,1
+2025-01-31,Cost of Goods Sold,247.5,Daily COGS,False,Variable,2025,1,1
+2025-01-31,Shipping & Packaging,15.4,6 online orders,False,Variable,2025,1,1
+2025-02-01,Rent,3500.0,Monthly store rent,True,Fixed,2025,2,1
+2025-02-01,Insurance,400.0,Business insurance premium,True,Fixed,2025,2,1
+2025-02-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2025,2,1
+2025-02-01,Cost of Goods Sold,530.5,Daily COGS,False,Variable,2025,2,1
+2025-02-01,Shipping & Packaging,41.18,16 online orders,False,Variable,2025,2,1
+2025-02-02,Cost of Goods Sold,962.0,Daily COGS,False,Variable,2025,2,1
+2025-02-02,Shipping & Packaging,53.96,13 online orders,False,Variable,2025,2,1
+2025-02-03,Cost of Goods Sold,298.5,Daily COGS,False,Variable,2025,2,1
+2025-02-03,Marketing,104.26,Social media and promotions,False,Variable,2025,2,1
+2025-02-03,Shipping & Packaging,27.22,7 online orders,False,Variable,2025,2,1
+2025-02-04,Cost of Goods Sold,526.0,Daily COGS,False,Variable,2025,2,1
+2025-02-04,Shipping & Packaging,9.56,3 online orders,False,Variable,2025,2,1
+2025-02-05,Cost of Goods Sold,284.0,Daily COGS,False,Variable,2025,2,1
+2025-02-05,Shipping & Packaging,29.73,8 online orders,False,Variable,2025,2,1
+2025-02-06,Cost of Goods Sold,757.0,Daily COGS,False,Variable,2025,2,1
+2025-02-06,Shipping & Packaging,16.26,4 online orders,False,Variable,2025,2,1
+2025-02-07,Payroll,2280.82,Weekly payroll - 4 staff,False,Variable,2025,2,1
+2025-02-07,Cost of Goods Sold,227.0,Daily COGS,False,Variable,2025,2,1
+2025-02-07,Shipping & Packaging,26.0,6 online orders,False,Variable,2025,2,1
+2025-02-08,Cost of Goods Sold,481.5,Daily COGS,False,Variable,2025,2,1
+2025-02-08,Shipping & Packaging,19.46,5 online orders,False,Variable,2025,2,1
+2025-02-09,Cost of Goods Sold,521.5,Daily COGS,False,Variable,2025,2,1
+2025-02-09,Shipping & Packaging,41.6,11 online orders,False,Variable,2025,2,1
+2025-02-10,Cost of Goods Sold,546.5,Daily COGS,False,Variable,2025,2,1
+2025-02-10,Marketing,840.21,Social media and promotions,False,Variable,2025,2,1
+2025-02-10,Shipping & Packaging,47.02,11 online orders,False,Variable,2025,2,1
+2025-02-11,Cost of Goods Sold,1103.5,Daily COGS,False,Variable,2025,2,1
+2025-02-11,Shipping & Packaging,35.94,13 online orders,False,Variable,2025,2,1
+2025-02-12,Cost of Goods Sold,929.5,Daily COGS,False,Variable,2025,2,1
+2025-02-12,Shipping & Packaging,95.36,23 online orders,False,Variable,2025,2,1
+2025-02-13,Cost of Goods Sold,560.0,Daily COGS,False,Variable,2025,2,1
+2025-02-13,Shipping & Packaging,47.79,13 online orders,False,Variable,2025,2,1
+2025-02-14,Payroll,2585.19,Weekly payroll - 4 staff,False,Variable,2025,2,1
+2025-02-14,Cost of Goods Sold,795.0,Daily COGS,False,Variable,2025,2,1
+2025-02-14,Shipping & Packaging,66.89,18 online orders,False,Variable,2025,2,1
+2025-02-15,Utilities,418.32,"Electricity, water, internet",False,Variable,2025,2,1
+2025-02-15,Cost of Goods Sold,568.5,Daily COGS,False,Variable,2025,2,1
+2025-02-15,Shipping & Packaging,45.23,12 online orders,False,Variable,2025,2,1
+2025-02-16,Cost of Goods Sold,454.0,Daily COGS,False,Variable,2025,2,1
+2025-02-16,Shipping & Packaging,38.84,10 online orders,False,Variable,2025,2,1
+2025-02-17,Cost of Goods Sold,356.5,Daily COGS,False,Variable,2025,2,1
+2025-02-17,Marketing,185.08,Social media and promotions,False,Variable,2025,2,1
+2025-02-17,Shipping & Packaging,29.71,10 online orders,False,Variable,2025,2,1
+2025-02-18,Cost of Goods Sold,274.0,Daily COGS,False,Variable,2025,2,1
+2025-02-18,Shipping & Packaging,8.87,2 online orders,False,Variable,2025,2,1
+2025-02-19,Cost of Goods Sold,173.5,Daily COGS,False,Variable,2025,2,1
+2025-02-19,Shipping & Packaging,14.69,5 online orders,False,Variable,2025,2,1
+2025-02-20,Cost of Goods Sold,103.0,Daily COGS,False,Variable,2025,2,1
+2025-02-20,Shipping & Packaging,5.99,2 online orders,False,Variable,2025,2,1
+2025-02-21,Payroll,2432.68,Weekly payroll - 4 staff,False,Variable,2025,2,1
+2025-02-21,Cost of Goods Sold,219.5,Daily COGS,False,Variable,2025,2,1
+2025-02-21,Shipping & Packaging,13.98,4 online orders,False,Variable,2025,2,1
+2025-02-22,Cost of Goods Sold,842.0,Daily COGS,False,Variable,2025,2,1
+2025-02-22,Shipping & Packaging,37.02,13 online orders,False,Variable,2025,2,1
+2025-02-23,Cost of Goods Sold,686.0,Daily COGS,False,Variable,2025,2,1
+2025-02-23,Shipping & Packaging,39.93,12 online orders,False,Variable,2025,2,1
+2025-02-24,Cost of Goods Sold,212.0,Daily COGS,False,Variable,2025,2,1
+2025-02-24,Marketing,199.12,Social media and promotions,False,Variable,2025,2,1
+2025-02-24,Shipping & Packaging,20.24,6 online orders,False,Variable,2025,2,1
+2025-02-25,Cost of Goods Sold,371.0,Daily COGS,False,Variable,2025,2,1
+2025-02-25,Shipping & Packaging,18.57,5 online orders,False,Variable,2025,2,1
+2025-02-26,Cost of Goods Sold,614.0,Daily COGS,False,Variable,2025,2,1
+2025-02-26,Shipping & Packaging,34.95,8 online orders,False,Variable,2025,2,1
+2025-02-27,Cost of Goods Sold,355.5,Daily COGS,False,Variable,2025,2,1
+2025-02-27,Shipping & Packaging,27.12,8 online orders,False,Variable,2025,2,1
+2025-02-28,Payroll,2537.81,Weekly payroll - 4 staff,False,Variable,2025,2,1
+2025-02-28,Cost of Goods Sold,399.0,Daily COGS,False,Variable,2025,2,1
+2025-02-28,Shipping & Packaging,19.81,5 online orders,False,Variable,2025,2,1
+2025-03-01,Rent,3500.0,Monthly store rent,True,Fixed,2025,3,1
+2025-03-01,Insurance,400.0,Business insurance premium,True,Fixed,2025,3,1
+2025-03-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2025,3,1
+2025-03-01,Cost of Goods Sold,313.5,Daily COGS,False,Variable,2025,3,1
+2025-03-01,Shipping & Packaging,26.54,7 online orders,False,Variable,2025,3,1
+2025-03-02,Cost of Goods Sold,476.5,Daily COGS,False,Variable,2025,3,1
+2025-03-02,Shipping & Packaging,28.86,11 online orders,False,Variable,2025,3,1
+2025-03-03,Cost of Goods Sold,351.0,Daily COGS,False,Variable,2025,3,1
+2025-03-03,Marketing,67.89,Social media and promotions,False,Variable,2025,3,1
+2025-03-03,Shipping & Packaging,14.04,4 online orders,False,Variable,2025,3,1
+2025-03-04,Cost of Goods Sold,289.0,Daily COGS,False,Variable,2025,3,1
+2025-03-04,Shipping & Packaging,17.26,5 online orders,False,Variable,2025,3,1
+2025-03-05,Cost of Goods Sold,403.5,Daily COGS,False,Variable,2025,3,1
+2025-03-05,Shipping & Packaging,39.27,11 online orders,False,Variable,2025,3,1
+2025-03-06,Cost of Goods Sold,159.0,Daily COGS,False,Variable,2025,3,1
+2025-03-06,Shipping & Packaging,10.38,4 online orders,False,Variable,2025,3,1
+2025-03-07,Payroll,2586.17,Weekly payroll - 4 staff,False,Variable,2025,3,1
+2025-03-07,Cost of Goods Sold,788.5,Daily COGS,False,Variable,2025,3,1
+2025-03-07,Shipping & Packaging,10.64,4 online orders,False,Variable,2025,3,1
+2025-03-08,Cost of Goods Sold,608.0,Daily COGS,False,Variable,2025,3,1
+2025-03-08,Shipping & Packaging,24.02,7 online orders,False,Variable,2025,3,1
+2025-03-09,Cost of Goods Sold,354.5,Daily COGS,False,Variable,2025,3,1
+2025-03-09,Shipping & Packaging,34.66,9 online orders,False,Variable,2025,3,1
+2025-03-10,Cost of Goods Sold,442.5,Daily COGS,False,Variable,2025,3,1
+2025-03-10,Marketing,111.72,Social media and promotions,False,Variable,2025,3,1
+2025-03-10,Shipping & Packaging,6.54,2 online orders,False,Variable,2025,3,1
+2025-03-11,Cost of Goods Sold,301.5,Daily COGS,False,Variable,2025,3,1
+2025-03-11,Shipping & Packaging,22.03,6 online orders,False,Variable,2025,3,1
+2025-03-12,Cost of Goods Sold,352.0,Daily COGS,False,Variable,2025,3,1
+2025-03-12,Shipping & Packaging,29.12,8 online orders,False,Variable,2025,3,1
+2025-03-13,Cost of Goods Sold,109.0,Daily COGS,False,Variable,2025,3,1
+2025-03-13,Shipping & Packaging,5.8,2 online orders,False,Variable,2025,3,1
+2025-03-14,Payroll,2459.95,Weekly payroll - 4 staff,False,Variable,2025,3,1
+2025-03-14,Cost of Goods Sold,168.0,Daily COGS,False,Variable,2025,3,1
+2025-03-14,Shipping & Packaging,5.22,2 online orders,False,Variable,2025,3,1
+2025-03-15,Utilities,399.35,"Electricity, water, internet",False,Variable,2025,3,1
+2025-03-15,Cost of Goods Sold,314.0,Daily COGS,False,Variable,2025,3,1
+2025-03-15,Shipping & Packaging,19.09,6 online orders,False,Variable,2025,3,1
+2025-03-16,Cost of Goods Sold,448.0,Daily COGS,False,Variable,2025,3,1
+2025-03-16,Shipping & Packaging,34.75,10 online orders,False,Variable,2025,3,1
+2025-03-17,Cost of Goods Sold,298.0,Daily COGS,False,Variable,2025,3,1
+2025-03-17,Marketing,151.55,Social media and promotions,False,Variable,2025,3,1
+2025-03-17,Shipping & Packaging,18.17,6 online orders,False,Variable,2025,3,1
+2025-03-18,Cost of Goods Sold,509.0,Daily COGS,False,Variable,2025,3,1
+2025-03-18,Shipping & Packaging,26.65,6 online orders,False,Variable,2025,3,1
+2025-03-19,Cost of Goods Sold,135.5,Daily COGS,False,Variable,2025,3,1
+2025-03-19,Shipping & Packaging,16.48,4 online orders,False,Variable,2025,3,1
+2025-03-20,Cost of Goods Sold,1265.0,Daily COGS,False,Variable,2025,3,1
+2025-03-20,Shipping & Packaging,63.56,23 online orders,False,Variable,2025,3,1
+2025-03-21,Payroll,2574.57,Weekly payroll - 4 staff,False,Variable,2025,3,1
+2025-03-21,Cost of Goods Sold,612.0,Daily COGS,False,Variable,2025,3,1
+2025-03-21,Shipping & Packaging,45.61,12 online orders,False,Variable,2025,3,1
+2025-03-22,Cost of Goods Sold,1044.0,Daily COGS,False,Variable,2025,3,1
+2025-03-22,Shipping & Packaging,76.6,18 online orders,False,Variable,2025,3,1
+2025-03-23,Cost of Goods Sold,1506.5,Daily COGS,False,Variable,2025,3,1
+2025-03-23,Shipping & Packaging,82.61,19 online orders,False,Variable,2025,3,1
+2025-03-24,Cost of Goods Sold,1170.0,Daily COGS,False,Variable,2025,3,1
+2025-03-24,Marketing,607.61,Social media and promotions,False,Variable,2025,3,1
+2025-03-24,Shipping & Packaging,80.37,26 online orders,False,Variable,2025,3,1
+2025-03-25,Cost of Goods Sold,697.5,Daily COGS,False,Variable,2025,3,1
+2025-03-25,Shipping & Packaging,48.97,13 online orders,False,Variable,2025,3,1
+2025-03-26,Cost of Goods Sold,679.5,Daily COGS,False,Variable,2025,3,1
+2025-03-26,Shipping & Packaging,21.9,8 online orders,False,Variable,2025,3,1
+2025-03-27,Cost of Goods Sold,342.5,Daily COGS,False,Variable,2025,3,1
+2025-03-27,Shipping & Packaging,30.75,9 online orders,False,Variable,2025,3,1
+2025-03-28,Payroll,2467.96,Weekly payroll - 4 staff,False,Variable,2025,3,1
+2025-03-28,Cost of Goods Sold,355.0,Daily COGS,False,Variable,2025,3,1
+2025-03-28,Shipping & Packaging,17.31,6 online orders,False,Variable,2025,3,1
+2025-03-29,Cost of Goods Sold,750.0,Daily COGS,False,Variable,2025,3,1
+2025-03-29,Shipping & Packaging,41.88,10 online orders,False,Variable,2025,3,1
+2025-03-30,Cost of Goods Sold,494.5,Daily COGS,False,Variable,2025,3,1
+2025-03-30,Shipping & Packaging,46.88,11 online orders,False,Variable,2025,3,1
+2025-03-31,Cost of Goods Sold,146.0,Daily COGS,False,Variable,2025,3,1
+2025-03-31,Marketing,109.97,Social media and promotions,False,Variable,2025,3,1
+2025-03-31,Shipping & Packaging,15.55,5 online orders,False,Variable,2025,3,1
+2025-04-01,Rent,3500.0,Monthly store rent,True,Fixed,2025,4,2
+2025-04-01,Insurance,400.0,Business insurance premium,True,Fixed,2025,4,2
+2025-04-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2025,4,2
+2025-04-01,Cost of Goods Sold,184.5,Daily COGS,False,Variable,2025,4,2
+2025-04-01,Shipping & Packaging,22.22,5 online orders,False,Variable,2025,4,2
+2025-04-02,Cost of Goods Sold,401.5,Daily COGS,False,Variable,2025,4,2
+2025-04-02,Shipping & Packaging,37.35,9 online orders,False,Variable,2025,4,2
+2025-04-03,Cost of Goods Sold,412.0,Daily COGS,False,Variable,2025,4,2
+2025-04-03,Shipping & Packaging,7.99,2 online orders,False,Variable,2025,4,2
+2025-04-04,Payroll,2244.97,Weekly payroll - 4 staff,False,Variable,2025,4,2
+2025-04-04,Cost of Goods Sold,368.0,Daily COGS,False,Variable,2025,4,2
+2025-04-04,Shipping & Packaging,24.93,6 online orders,False,Variable,2025,4,2
+2025-04-05,Cost of Goods Sold,325.5,Daily COGS,False,Variable,2025,4,2
+2025-04-05,Shipping & Packaging,9.98,3 online orders,False,Variable,2025,4,2
+2025-04-06,Cost of Goods Sold,363.5,Daily COGS,False,Variable,2025,4,2
+2025-04-06,Shipping & Packaging,52.37,12 online orders,False,Variable,2025,4,2
+2025-04-07,Cost of Goods Sold,254.5,Daily COGS,False,Variable,2025,4,2
+2025-04-07,Marketing,136.15,Social media and promotions,False,Variable,2025,4,2
+2025-04-07,Shipping & Packaging,23.7,8 online orders,False,Variable,2025,4,2
+2025-04-08,Cost of Goods Sold,291.5,Daily COGS,False,Variable,2025,4,2
+2025-04-08,Shipping & Packaging,26.0,8 online orders,False,Variable,2025,4,2
+2025-04-09,Cost of Goods Sold,106.5,Daily COGS,False,Variable,2025,4,2
+2025-04-09,Shipping & Packaging,13.39,3 online orders,False,Variable,2025,4,2
+2025-04-10,Cost of Goods Sold,324.0,Daily COGS,False,Variable,2025,4,2
+2025-04-10,Shipping & Packaging,18.78,6 online orders,False,Variable,2025,4,2
+2025-04-11,Payroll,2568.7,Weekly payroll - 4 staff,False,Variable,2025,4,2
+2025-04-11,Cost of Goods Sold,471.0,Daily COGS,False,Variable,2025,4,2
+2025-04-11,Shipping & Packaging,35.07,8 online orders,False,Variable,2025,4,2
+2025-04-12,Cost of Goods Sold,373.5,Daily COGS,False,Variable,2025,4,2
+2025-04-12,Shipping & Packaging,46.92,11 online orders,False,Variable,2025,4,2
+2025-04-13,Cost of Goods Sold,505.0,Daily COGS,False,Variable,2025,4,2
+2025-04-13,Shipping & Packaging,38.79,11 online orders,False,Variable,2025,4,2
+2025-04-14,Cost of Goods Sold,427.5,Daily COGS,False,Variable,2025,4,2
+2025-04-14,Marketing,196.09,Social media and promotions,False,Variable,2025,4,2
+2025-04-14,Shipping & Packaging,46.55,12 online orders,False,Variable,2025,4,2
+2025-04-15,Utilities,415.35,"Electricity, water, internet",False,Variable,2025,4,2
+2025-04-15,Cost of Goods Sold,364.5,Daily COGS,False,Variable,2025,4,2
+2025-04-15,Shipping & Packaging,23.57,9 online orders,False,Variable,2025,4,2
+2025-04-16,Cost of Goods Sold,145.5,Daily COGS,False,Variable,2025,4,2
+2025-04-16,Shipping & Packaging,8.43,3 online orders,False,Variable,2025,4,2
+2025-04-17,Cost of Goods Sold,209.5,Daily COGS,False,Variable,2025,4,2
+2025-04-17,Shipping & Packaging,10.86,4 online orders,False,Variable,2025,4,2
+2025-04-18,Payroll,2411.16,Weekly payroll - 4 staff,False,Variable,2025,4,2
+2025-04-18,Cost of Goods Sold,502.0,Daily COGS,False,Variable,2025,4,2
+2025-04-18,Shipping & Packaging,30.51,7 online orders,False,Variable,2025,4,2
+2025-04-19,Cost of Goods Sold,386.0,Daily COGS,False,Variable,2025,4,2
+2025-04-19,Shipping & Packaging,39.77,11 online orders,False,Variable,2025,4,2
+2025-04-20,Cost of Goods Sold,512.5,Daily COGS,False,Variable,2025,4,2
+2025-04-20,Shipping & Packaging,46.54,11 online orders,False,Variable,2025,4,2
+2025-04-21,Cost of Goods Sold,216.0,Daily COGS,False,Variable,2025,4,2
+2025-04-21,Marketing,109.18,Social media and promotions,False,Variable,2025,4,2
+2025-04-21,Shipping & Packaging,14.17,5 online orders,False,Variable,2025,4,2
+2025-04-22,Cost of Goods Sold,540.0,Daily COGS,False,Variable,2025,4,2
+2025-04-22,Shipping & Packaging,22.06,7 online orders,False,Variable,2025,4,2
+2025-04-23,Cost of Goods Sold,207.0,Daily COGS,False,Variable,2025,4,2
+2025-04-23,Shipping & Packaging,24.0,8 online orders,False,Variable,2025,4,2
+2025-04-24,Cost of Goods Sold,425.5,Daily COGS,False,Variable,2025,4,2
+2025-04-24,Shipping & Packaging,24.19,8 online orders,False,Variable,2025,4,2
+2025-04-25,Payroll,2227.64,Weekly payroll - 4 staff,False,Variable,2025,4,2
+2025-04-25,Cost of Goods Sold,234.0,Daily COGS,False,Variable,2025,4,2
+2025-04-25,Shipping & Packaging,21.19,5 online orders,False,Variable,2025,4,2
+2025-04-26,Cost of Goods Sold,468.0,Daily COGS,False,Variable,2025,4,2
+2025-04-26,Shipping & Packaging,28.32,7 online orders,False,Variable,2025,4,2
+2025-04-27,Cost of Goods Sold,412.5,Daily COGS,False,Variable,2025,4,2
+2025-04-27,Shipping & Packaging,30.92,7 online orders,False,Variable,2025,4,2
+2025-04-28,Cost of Goods Sold,231.0,Daily COGS,False,Variable,2025,4,2
+2025-04-28,Marketing,75.76,Social media and promotions,False,Variable,2025,4,2
+2025-04-28,Shipping & Packaging,17.97,7 online orders,False,Variable,2025,4,2
+2025-04-29,Cost of Goods Sold,274.0,Daily COGS,False,Variable,2025,4,2
+2025-04-29,Shipping & Packaging,11.79,4 online orders,False,Variable,2025,4,2
+2025-04-30,Cost of Goods Sold,303.0,Daily COGS,False,Variable,2025,4,2
+2025-04-30,Shipping & Packaging,16.62,6 online orders,False,Variable,2025,4,2
+2025-05-01,Rent,3500.0,Monthly store rent,True,Fixed,2025,5,2
+2025-05-01,Insurance,400.0,Business insurance premium,True,Fixed,2025,5,2
+2025-05-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2025,5,2
+2025-05-01,Cost of Goods Sold,229.0,Daily COGS,False,Variable,2025,5,2
+2025-05-01,Shipping & Packaging,3.32,1 online orders,False,Variable,2025,5,2
+2025-05-02,Payroll,2452.87,Weekly payroll - 4 staff,False,Variable,2025,5,2
+2025-05-02,Cost of Goods Sold,349.5,Daily COGS,False,Variable,2025,5,2
+2025-05-02,Shipping & Packaging,14.59,4 online orders,False,Variable,2025,5,2
+2025-05-03,Cost of Goods Sold,413.5,Daily COGS,False,Variable,2025,5,2
+2025-05-03,Shipping & Packaging,33.35,12 online orders,False,Variable,2025,5,2
+2025-05-04,Cost of Goods Sold,702.5,Daily COGS,False,Variable,2025,5,2
+2025-05-04,Shipping & Packaging,30.37,7 online orders,False,Variable,2025,5,2
+2025-05-05,Cost of Goods Sold,193.0,Daily COGS,False,Variable,2025,5,2
+2025-05-05,Marketing,181.22,Social media and promotions,False,Variable,2025,5,2
+2025-05-05,Shipping & Packaging,14.89,4 online orders,False,Variable,2025,5,2
+2025-05-06,Cost of Goods Sold,435.0,Daily COGS,False,Variable,2025,5,2
+2025-05-06,Shipping & Packaging,20.15,7 online orders,False,Variable,2025,5,2
+2025-05-07,Cost of Goods Sold,138.0,Daily COGS,False,Variable,2025,5,2
+2025-05-07,Shipping & Packaging,5.01,2 online orders,False,Variable,2025,5,2
+2025-05-08,Cost of Goods Sold,184.0,Daily COGS,False,Variable,2025,5,2
+2025-05-08,Shipping & Packaging,21.83,5 online orders,False,Variable,2025,5,2
+2025-05-09,Payroll,2492.3,Weekly payroll - 4 staff,False,Variable,2025,5,2
+2025-05-09,Cost of Goods Sold,330.0,Daily COGS,False,Variable,2025,5,2
+2025-05-09,Shipping & Packaging,38.19,9 online orders,False,Variable,2025,5,2
+2025-05-10,Cost of Goods Sold,346.0,Daily COGS,False,Variable,2025,5,2
+2025-05-10,Shipping & Packaging,30.47,7 online orders,False,Variable,2025,5,2
+2025-05-11,Cost of Goods Sold,341.5,Daily COGS,False,Variable,2025,5,2
+2025-05-11,Shipping & Packaging,43.63,10 online orders,False,Variable,2025,5,2
+2025-05-12,Cost of Goods Sold,165.0,Daily COGS,False,Variable,2025,5,2
+2025-05-12,Marketing,86.71,Social media and promotions,False,Variable,2025,5,2
+2025-05-12,Shipping & Packaging,5.59,2 online orders,False,Variable,2025,5,2
+2025-05-13,Cost of Goods Sold,330.0,Daily COGS,False,Variable,2025,5,2
+2025-05-13,Shipping & Packaging,11.57,4 online orders,False,Variable,2025,5,2
+2025-05-14,Cost of Goods Sold,299.0,Daily COGS,False,Variable,2025,5,2
+2025-05-14,Shipping & Packaging,8.89,2 online orders,False,Variable,2025,5,2
+2025-05-15,Utilities,373.1,"Electricity, water, internet",False,Variable,2025,5,2
+2025-05-15,Cost of Goods Sold,334.5,Daily COGS,False,Variable,2025,5,2
+2025-05-15,Shipping & Packaging,20.83,8 online orders,False,Variable,2025,5,2
+2025-05-16,Payroll,2536.31,Weekly payroll - 4 staff,False,Variable,2025,5,2
+2025-05-16,Cost of Goods Sold,366.0,Daily COGS,False,Variable,2025,5,2
+2025-05-16,Shipping & Packaging,25.25,9 online orders,False,Variable,2025,5,2
+2025-05-17,Cost of Goods Sold,607.0,Daily COGS,False,Variable,2025,5,2
+2025-05-17,Shipping & Packaging,31.98,11 online orders,False,Variable,2025,5,2
+2025-05-18,Cost of Goods Sold,480.5,Daily COGS,False,Variable,2025,5,2
+2025-05-18,Shipping & Packaging,35.86,10 online orders,False,Variable,2025,5,2
+2025-05-19,Cost of Goods Sold,138.5,Daily COGS,False,Variable,2025,5,2
+2025-05-19,Marketing,98.42,Social media and promotions,False,Variable,2025,5,2
+2025-05-19,Shipping & Packaging,8.22,3 online orders,False,Variable,2025,5,2
+2025-05-20,Cost of Goods Sold,395.5,Daily COGS,False,Variable,2025,5,2
+2025-05-20,Shipping & Packaging,18.21,6 online orders,False,Variable,2025,5,2
+2025-05-21,Cost of Goods Sold,308.5,Daily COGS,False,Variable,2025,5,2
+2025-05-21,Shipping & Packaging,12.91,5 online orders,False,Variable,2025,5,2
+2025-05-22,Cost of Goods Sold,214.5,Daily COGS,False,Variable,2025,5,2
+2025-05-22,Shipping & Packaging,25.07,6 online orders,False,Variable,2025,5,2
+2025-05-23,Payroll,2252.19,Weekly payroll - 4 staff,False,Variable,2025,5,2
+2025-05-23,Cost of Goods Sold,153.5,Daily COGS,False,Variable,2025,5,2
+2025-05-23,Shipping & Packaging,16.13,6 online orders,False,Variable,2025,5,2
+2025-05-24,Cost of Goods Sold,458.0,Daily COGS,False,Variable,2025,5,2
+2025-05-24,Shipping & Packaging,30.93,7 online orders,False,Variable,2025,5,2
+2025-05-25,Cost of Goods Sold,494.0,Daily COGS,False,Variable,2025,5,2
+2025-05-25,Shipping & Packaging,31.88,8 online orders,False,Variable,2025,5,2
+2025-05-26,Cost of Goods Sold,317.0,Daily COGS,False,Variable,2025,5,2
+2025-05-26,Marketing,110.77,Social media and promotions,False,Variable,2025,5,2
+2025-05-26,Shipping & Packaging,17.8,7 online orders,False,Variable,2025,5,2
+2025-05-27,Cost of Goods Sold,270.5,Daily COGS,False,Variable,2025,5,2
+2025-05-27,Shipping & Packaging,12.15,4 online orders,False,Variable,2025,5,2
+2025-05-28,Cost of Goods Sold,180.0,Daily COGS,False,Variable,2025,5,2
+2025-05-28,Shipping & Packaging,21.05,5 online orders,False,Variable,2025,5,2
+2025-05-29,Cost of Goods Sold,274.0,Daily COGS,False,Variable,2025,5,2
+2025-05-29,Shipping & Packaging,30.95,8 online orders,False,Variable,2025,5,2
+2025-05-30,Payroll,2401.49,Weekly payroll - 4 staff,False,Variable,2025,5,2
+2025-05-30,Cost of Goods Sold,389.5,Daily COGS,False,Variable,2025,5,2
+2025-05-30,Shipping & Packaging,19.71,7 online orders,False,Variable,2025,5,2
+2025-05-31,Cost of Goods Sold,671.0,Daily COGS,False,Variable,2025,5,2
+2025-05-31,Shipping & Packaging,40.88,12 online orders,False,Variable,2025,5,2
+2025-06-01,Rent,3500.0,Monthly store rent,True,Fixed,2025,6,2
+2025-06-01,Insurance,400.0,Business insurance premium,True,Fixed,2025,6,2
+2025-06-01,Software & Subscriptions,150.0,POS and inventory software,True,Fixed,2025,6,2
+2025-06-01,Cost of Goods Sold,887.0,Daily COGS,False,Variable,2025,6,2
+2025-06-01,Shipping & Packaging,53.9,16 online orders,False,Variable,2025,6,2
+2025-06-02,Cost of Goods Sold,853.5,Daily COGS,False,Variable,2025,6,2
+2025-06-02,Marketing,315.12,Social media and promotions,False,Variable,2025,6,2
+2025-06-02,Shipping & Packaging,67.65,16 online orders,False,Variable,2025,6,2
+2025-06-03,Cost of Goods Sold,1182.0,Daily COGS,False,Variable,2025,6,2
+2025-06-03,Shipping & Packaging,56.78,20 online orders,False,Variable,2025,6,2
+2025-06-04,Cost of Goods Sold,1025.0,Daily COGS,False,Variable,2025,6,2
+2025-06-04,Shipping & Packaging,60.75,24 online orders,False,Variable,2025,6,2
+2025-06-05,Cost of Goods Sold,719.5,Daily COGS,False,Variable,2025,6,2
+2025-06-05,Shipping & Packaging,39.7,10 online orders,False,Variable,2025,6,2
+2025-06-06,Payroll,2385.44,Weekly payroll - 4 staff,False,Variable,2025,6,2
+2025-06-06,Cost of Goods Sold,1068.5,Daily COGS,False,Variable,2025,6,2
+2025-06-06,Shipping & Packaging,58.75,16 online orders,False,Variable,2025,6,2
+2025-06-07,Cost of Goods Sold,765.0,Daily COGS,False,Variable,2025,6,2
+2025-06-07,Shipping & Packaging,63.13,17 online orders,False,Variable,2025,6,2
+2025-06-08,Cost of Goods Sold,457.5,Daily COGS,False,Variable,2025,6,2
+2025-06-08,Shipping & Packaging,17.8,7 online orders,False,Variable,2025,6,2
+2025-06-09,Cost of Goods Sold,227.5,Daily COGS,False,Variable,2025,6,2
+2025-06-09,Marketing,168.39,Social media and promotions,False,Variable,2025,6,2
+2025-06-09,Shipping & Packaging,18.22,6 online orders,False,Variable,2025,6,2
+2025-06-10,Cost of Goods Sold,494.0,Daily COGS,False,Variable,2025,6,2
+2025-06-10,Shipping & Packaging,25.04,8 online orders,False,Variable,2025,6,2
+2025-06-11,Cost of Goods Sold,353.0,Daily COGS,False,Variable,2025,6,2
+2025-06-11,Shipping & Packaging,19.22,5 online orders,False,Variable,2025,6,2
+2025-06-12,Cost of Goods Sold,210.5,Daily COGS,False,Variable,2025,6,2
+2025-06-12,Shipping & Packaging,7.23,2 online orders,False,Variable,2025,6,2
+2025-06-13,Payroll,2206.56,Weekly payroll - 4 staff,False,Variable,2025,6,2
+2025-06-13,Cost of Goods Sold,274.0,Daily COGS,False,Variable,2025,6,2
+2025-06-13,Shipping & Packaging,18.86,5 online orders,False,Variable,2025,6,2
+2025-06-14,Cost of Goods Sold,529.0,Daily COGS,False,Variable,2025,6,2
+2025-06-14,Shipping & Packaging,19.88,7 online orders,False,Variable,2025,6,2
+2025-06-15,Utilities,414.98,"Electricity, water, internet",False,Variable,2025,6,2
+2025-06-15,Cost of Goods Sold,438.5,Daily COGS,False,Variable,2025,6,2
+2025-06-15,Shipping & Packaging,33.65,10 online orders,False,Variable,2025,6,2
+2025-06-16,Cost of Goods Sold,197.5,Daily COGS,False,Variable,2025,6,2
+2025-06-16,Marketing,180.91,Social media and promotions,False,Variable,2025,6,2
+2025-06-16,Shipping & Packaging,14.97,4 online orders,False,Variable,2025,6,2
+2025-06-17,Cost of Goods Sold,335.5,Daily COGS,False,Variable,2025,6,2
+2025-06-17,Shipping & Packaging,20.49,6 online orders,False,Variable,2025,6,2
+2025-06-18,Cost of Goods Sold,258.0,Daily COGS,False,Variable,2025,6,2
+2025-06-18,Shipping & Packaging,22.64,8 online orders,False,Variable,2025,6,2
+2025-06-19,Cost of Goods Sold,234.0,Daily COGS,False,Variable,2025,6,2
+2025-06-19,Shipping & Packaging,19.3,5 online orders,False,Variable,2025,6,2
+2025-06-20,Payroll,2396.43,Weekly payroll - 4 staff,False,Variable,2025,6,2
+2025-06-20,Cost of Goods Sold,210.0,Daily COGS,False,Variable,2025,6,2
+2025-06-20,Shipping & Packaging,12.69,3 online orders,False,Variable,2025,6,2
+2025-06-21,Cost of Goods Sold,483.5,Daily COGS,False,Variable,2025,6,2
+2025-06-21,Shipping & Packaging,42.92,10 online orders,False,Variable,2025,6,2
+2025-06-22,Cost of Goods Sold,496.5,Daily COGS,False,Variable,2025,6,2
+2025-06-22,Shipping & Packaging,29.28,10 online orders,False,Variable,2025,6,2
+2025-06-23,Cost of Goods Sold,191.0,Daily COGS,False,Variable,2025,6,2
+2025-06-23,Marketing,128.87,Social media and promotions,False,Variable,2025,6,2
+2025-06-23,Shipping & Packaging,23.38,6 online orders,False,Variable,2025,6,2
+2025-06-24,Cost of Goods Sold,301.0,Daily COGS,False,Variable,2025,6,2
+2025-06-24,Shipping & Packaging,31.32,9 online orders,False,Variable,2025,6,2
+2025-06-25,Cost of Goods Sold,164.0,Daily COGS,False,Variable,2025,6,2
+2025-06-25,Shipping & Packaging,12.53,4 online orders,False,Variable,2025,6,2
+2025-06-26,Cost of Goods Sold,540.0,Daily COGS,False,Variable,2025,6,2
+2025-06-26,Shipping & Packaging,13.55,4 online orders,False,Variable,2025,6,2
+2025-06-27,Payroll,2220.94,Weekly payroll - 4 staff,False,Variable,2025,6,2
+2025-06-27,Cost of Goods Sold,288.5,Daily COGS,False,Variable,2025,6,2
+2025-06-27,Shipping & Packaging,31.95,8 online orders,False,Variable,2025,6,2
+2025-06-28,Cost of Goods Sold,454.0,Daily COGS,False,Variable,2025,6,2
+2025-06-28,Shipping & Packaging,42.5,13 online orders,False,Variable,2025,6,2
+2025-06-29,Cost of Goods Sold,576.0,Daily COGS,False,Variable,2025,6,2
+2025-06-29,Shipping & Packaging,39.43,13 online orders,False,Variable,2025,6,2
+2025-06-30,Cost of Goods Sold,302.0,Daily COGS,False,Variable,2025,6,2
+2025-06-30,Marketing,141.96,Social media and promotions,False,Variable,2025,6,2
+2025-06-30,Shipping & Packaging,51.93,12 online orders,False,Variable,2025,6,2

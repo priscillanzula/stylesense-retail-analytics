@@ -1,0 +1,201 @@
+customer_id,name,email,age,gender,city,state,segment,total_items_purchased,total_spent,num_orders,last_purchase_date,favourite_category,first_purchase_date,avg_order_value,age_group,derived_segment
+C001,Sandra Lewis,sandra.lewis1@yahoo.com,40.0,F,Nashville,TN,New,83,3108.42,57,2025-06-18,Women,2024-01-29,54.53,35-44,High Engagement
+C002,Kimberly Martinez,kimberly.martinez98@outlook.com,33.0,F,Charlotte,NC,Loyal,176,6903.24,67,2025-06-25,Women,2024-01-03,103.03,25-34,High Engagement
+C003,Susan Thompson,susan.thompson78@outlook.com,42.0,F,Atlanta,GA,Seasonal,67,2501.08,43,2025-06-20,Women,2024-01-12,58.16,35-44,Mid Engagement
+C004,Anna Davis,anna.davis11@icloud.com,53.0,F,Minneapolis,MN,Occasional,76,2777.74,48,2025-06-26,Women,2024-01-06,57.87,45-54,Mid Engagement
+C005,Pamela Gonzalez,pamela.gonzalez6@yahoo.com,32.0,F,Phoenix,AZ,Seasonal,95,3634.3,60,2025-06-23,Women,2024-01-09,60.57,25-34,High Engagement
+C006,Paul Edwards,paul.edwards49@outlook.com,32.0,M,San Antonio,TX,Occasional,78,2708.72,53,2025-06-23,Men,2024-01-02,51.11,25-34,Mid Engagement
+C007,Lisa White,lisa.white27@outlook.com,53.0,F,Atlanta,GA,New,66,2642.09,40,2025-06-29,Women,2024-01-04,66.05,45-54,Mid Engagement
+C008,Frank Green,frank.green69@yahoo.com,44.0,M,Austin,TX,Loyal,157,5549.68,61,2025-06-28,Men,2024-01-03,90.98,35-44,High Engagement
+C009,Kimberly Green,kimberly.green88@outlook.com,29.0,F,Indianapolis,IN,Seasonal,86,2941.64,54,2025-06-27,Women,2024-01-03,54.47,25-34,Mid Engagement
+C010,Paul Turner,paul.turner41@hotmail.com,41.0,M,Chicago,IL,Occasional,112,3681.88,61,2025-06-14,Men,2024-01-01,60.36,35-44,High Engagement
+C011,Raymond Rivera,raymond.rivera28@hotmail.com,29.0,M,Las Vegas,NV,Occasional,104,3938.96,59,2025-06-26,Men,2024-01-01,66.76,25-34,High Engagement
+C012,Karen Taylor,karen.taylor32@icloud.com,29.0,F,Dallas,TX,New,80,2966.7,47,2025-05-24,Women,2024-01-07,63.12,25-34,Mid Engagement
+C013,Emma Sanchez,emma.sanchez29@yahoo.com,37.0,F,Miami,FL,New,91,3436.84,61,2025-06-07,Women,2024-01-07,56.34,35-44,High Engagement
+C014,Michael Edwards,michael.edwards20@yahoo.com,18.0,M,San Diego,CA,Seasonal,63,2300.87,39,2025-06-30,Men,2024-01-04,59.0,18-24,Mid Engagement
+C015,Nicole Jones,nicole.jones49@icloud.com,18.0,F,Minneapolis,MN,Bargain Hunter,106,3209.94,40,2025-06-19,Women,2024-01-14,80.25,18-24,Mid Engagement
+C016,Brenda Edwards,brenda.edwards88@gmail.com,28.0,F,New York,NY,New,90,3084.35,50,2025-06-15,Women,2024-01-06,61.69,25-34,Mid Engagement
+C017,Heather Adams,heather.adams15@outlook.com,22.0,F,Memphis,TN,Occasional,60,1840.4,40,2025-06-06,Women,2024-01-01,46.01,18-24,Mid Engagement
+C018,Mary Campbell,mary.campbell65@yahoo.com,38.0,F,Denver,CO,New,60,2389.15,35,2025-06-14,Women,2024-01-05,68.26,35-44,Mid Engagement
+C019,Patrick Martin,patrick.martin20@outlook.com,24.0,M,Columbus,OH,Seasonal,71,2220.29,46,2025-06-21,Men,2024-01-05,48.27,18-24,Mid Engagement
+C020,Frank Lee,frank.lee3@gmail.com,18.0,M,Tucson,AZ,Bargain Hunter,161,4935.14,59,2025-06-22,Men,2024-01-03,83.65,18-24,High Engagement
+C021,Ashley Brown,ashley.brown73@gmail.com,52.0,F,Seattle,WA,Loyal,128,4962.72,53,2025-06-21,Women,2024-01-02,93.64,45-54,Mid Engagement
+C022,Barbara Carter,barbara.carter17@hotmail.com,32.0,F,Dallas,TX,Bargain Hunter,126,4914.24,41,2025-06-23,Women,2024-01-03,119.86,25-34,Mid Engagement
+C023,Andrew King,andrew.king28@icloud.com,35.0,M,Cleveland,OH,Seasonal,90,3173.6,54,2025-06-24,Men,2024-01-01,58.77,35-44,Mid Engagement
+C024,Tyler Martin,tyler.martin86@outlook.com,18.0,M,Tampa,FL,Occasional,80,2641.7,46,2025-06-03,Men,2024-01-01,57.43,18-24,Mid Engagement
+C025,Jessica Thomas,jessica.thomas9@outlook.com,28.0,F,Indianapolis,IN,Loyal,138,5147.87,48,2025-06-29,Women,2024-01-20,107.25,25-34,Mid Engagement
+C026,Gregory Anderson,gregory.anderson10@gmail.com,36.0,M,New York,NY,Occasional,76,3146.99,51,2025-06-26,Men,2024-01-03,61.71,35-44,Mid Engagement
+C027,Ronald Jones,ronald.jones36@hotmail.com,21.0,M,Seattle,WA,Occasional,109,3701.91,64,2025-06-24,Men,2024-01-03,57.84,18-24,High Engagement
+C028,Aaron Torres,aaron.torres32@hotmail.com,39.0,M,Fresno,CA,Seasonal,92,2961.33,56,2025-06-30,Men,2024-01-02,52.88,35-44,High Engagement
+C029,Richard Miller,richard.miller46@hotmail.com,27.0,M,Cleveland,OH,Occasional,104,3589.71,59,2025-06-26,Men,2024-01-03,60.84,25-34,High Engagement
+C030,Dennis Adams,dennis.adams8@hotmail.com,31.0,M,San Antonio,TX,New,88,2843.62,56,2025-06-28,Men,2024-01-02,50.78,25-34,High Engagement
+C031,Steven Gonzalez,steven.gonzalez69@hotmail.com,27.0,M,Columbus,OH,Loyal,125,4141.5,51,2025-06-19,Men,2024-01-05,81.21,25-34,Mid Engagement
+C032,Kevin Robinson,kevin.robinson10@hotmail.com,57.0,M,Seattle,WA,Seasonal,72,2384.78,42,2025-06-14,Men,2024-01-01,56.78,55-64,Mid Engagement
+C033,Michael Adams,michael.adams12@yahoo.com,34.0,M,New York,NY,Loyal,144,5850.06,63,2025-06-30,Men,2024-02-03,92.86,25-34,High Engagement
+C034,Kathleen Wilson,kathleen.wilson8@yahoo.com,22.0,F,Tampa,FL,Occasional,75,2947.0,47,2025-05-18,Women,2024-01-05,62.7,18-24,Mid Engagement
+C035,Dorothy Phillips,dorothy.phillips37@hotmail.com,44.0,F,Sacramento,CA,New,50,1915.75,33,2025-06-30,Women,2024-02-29,58.05,35-44,Low Engagement
+C036,Karen Gonzalez,karen.gonzalez28@gmail.com,20.0,F,Boston,MA,New,62,2120.13,45,2025-06-30,Women,2024-01-07,47.11,18-24,Mid Engagement
+C037,Henry Lee,henry.lee7@icloud.com,37.0,M,Houston,TX,Occasional,103,3949.47,62,2025-06-07,Men,2024-01-30,63.7,35-44,High Engagement
+C038,Michael Allen,michael.allen24@gmail.com,18.0,M,Philadelphia,PA,New,90,2958.1,60,2025-06-15,Men,2024-01-04,49.3,18-24,High Engagement
+C039,Ryan Davis,ryan.davis75@icloud.com,19.0,M,Seattle,WA,Loyal,102,3539.98,43,2025-06-29,Men,2024-01-17,82.33,18-24,Mid Engagement
+C040,Jacob Nelson,jacob.nelson34@yahoo.com,37.0,M,Las Vegas,NV,New,68,2250.32,42,2025-06-25,Men,2024-01-07,53.58,35-44,Mid Engagement
+C041,Ashley Taylor,ashley.taylor17@outlook.com,43.0,F,Tampa,FL,Occasional,87,3232.88,47,2025-06-11,Women,2024-01-01,68.78,35-44,Mid Engagement
+C042,James Robinson,james.robinson10@icloud.com,37.0,M,San Antonio,TX,Occasional,92,2753.08,55,2025-06-25,All,2024-01-16,50.06,35-44,High Engagement
+C043,Sarah Thompson,sarah.thompson32@outlook.com,33.0,F,Phoenix,AZ,Occasional,77,2915.48,53,2025-06-29,Women,2024-01-06,55.01,25-34,Mid Engagement
+C044,Anna Rivera,anna.rivera79@icloud.com,31.0,F,Portland,OR,Loyal,161,5842.89,63,2025-06-21,Women,2024-01-01,92.74,25-34,High Engagement
+C045,Christine Miller,christine.miller34@gmail.com,18.0,F,Dallas,TX,Seasonal,80,3194.95,49,2025-06-14,Women,2024-01-01,65.2,18-24,Mid Engagement
+C046,Kevin Jackson,kevin.jackson92@outlook.com,26.0,M,Charlotte,NC,Occasional,82,3306.68,46,2025-06-17,Men,2024-01-04,71.88,25-34,Mid Engagement
+C047,Angela Young,angela.young7@gmail.com,29.0,F,Denver,CO,New,86,3157.14,51,2025-06-14,Women,2024-01-04,61.9,25-34,Mid Engagement
+C048,Jennifer Smith,jennifer.smith99@yahoo.com,47.0,F,Memphis,TN,New,72,2898.28,53,2025-06-21,Women,2024-01-02,54.68,45-54,Mid Engagement
+C049,Lisa Mitchell,lisa.mitchell71@hotmail.com,39.0,F,Raleigh,NC,New,81,3115.69,54,2025-06-29,Women,2024-01-04,57.7,35-44,Mid Engagement
+C050,William Hall,william.hall70@gmail.com,18.0,M,San Jose,CA,Seasonal,88,2832.62,52,2025-06-26,Men,2024-01-20,54.47,18-24,Mid Engagement
+C051,Gary Rodriguez,gary.rodriguez40@outlook.com,38.0,M,Chicago,IL,Seasonal,83,2619.67,56,2025-05-16,Men,2024-01-02,46.78,35-44,High Engagement
+C052,Timothy Wilson,timothy.wilson86@gmail.com,30.0,M,Seattle,WA,Occasional,88,3147.87,50,2025-06-30,Men,2024-01-21,62.96,25-34,Mid Engagement
+C053,Helen Mitchell,helen.mitchell31@yahoo.com,26.0,F,San Jose,CA,Bargain Hunter,112,4396.63,43,2025-06-05,Women,2024-01-03,102.25,25-34,Mid Engagement
+C054,Jacob Johnson,jacob.johnson95@outlook.com,42.0,M,Jacksonville,FL,Seasonal,64,2179.36,44,2025-06-01,Men,2024-01-05,49.53,35-44,Mid Engagement
+C055,Christine Edwards,christine.edwards35@yahoo.com,47.0,F,Seattle,WA,Seasonal,77,3131.98,48,2025-06-26,Women,2024-01-02,65.25,45-54,Mid Engagement
+C056,Jeffrey Edwards,jeffrey.edwards61@yahoo.com,46.0,M,Chicago,IL,Loyal,127,4772.73,51,2025-06-18,Men,2024-01-07,93.58,45-54,Mid Engagement
+C057,Amanda Martin,amanda.martin29@gmail.com,24.0,F,Indianapolis,IN,New,69,2564.06,47,2025-05-18,Women,2024-01-02,54.55,18-24,Mid Engagement
+C058,Carol Moore,carol.moore99@outlook.com,31.0,F,Phoenix,AZ,Occasional,110,4453.65,75,2025-06-24,Women,2024-01-01,59.38,25-34,High Engagement
+C059,Debra Parker,debra.parker4@gmail.com,38.0,F,Memphis,TN,Seasonal,87,3096.38,52,2025-06-29,Women,2024-01-05,59.55,35-44,Mid Engagement
+C060,Nancy Nguyen,nancy.nguyen5@gmail.com,46.0,F,Denver,CO,New,77,3030.23,48,2025-06-05,Women,2024-01-20,63.13,45-54,Mid Engagement
+C061,Janet Phillips,janet.phillips56@icloud.com,29.0,F,Las Vegas,NV,Bargain Hunter,104,3968.96,40,2025-06-22,Women,2024-01-05,99.22,25-34,Mid Engagement
+C062,Jeffrey Torres,jeffrey.torres33@gmail.com,32.0,M,Columbus,OH,New,98,3451.02,56,2025-06-29,Men,2024-01-01,61.63,25-34,High Engagement
+C063,Justin Evans,justin.evans47@hotmail.com,21.0,M,Columbus,OH,Loyal,101,3528.49,39,2025-06-01,Men,2024-01-08,90.47,18-24,Mid Engagement
+C064,Helen Lee,helen.lee93@outlook.com,20.0,F,San Diego,CA,New,71,2762.04,42,2025-06-26,Women,2024-01-03,65.76,18-24,Mid Engagement
+C065,Michelle Sanchez,michelle.sanchez71@yahoo.com,44.0,F,Boston,MA,Loyal,147,4991.28,61,2025-06-29,Women,2024-01-05,81.82,35-44,High Engagement
+C066,Debra Mitchell,debra.mitchell79@icloud.com,51.0,F,Jacksonville,FL,Occasional,77,2804.73,48,2025-06-16,Women,2024-01-22,58.43,45-54,Mid Engagement
+C067,George Jackson,george.jackson56@icloud.com,34.0,M,Charlotte,NC,New,65,2152.35,43,2025-06-17,Men,2024-01-21,50.05,25-34,Mid Engagement
+C068,Cynthia Lewis,cynthia.lewis87@yahoo.com,47.0,F,Raleigh,NC,New,68,2958.57,41,2025-05-29,Women,2024-01-08,72.16,45-54,Mid Engagement
+C069,Jack Garcia,jack.garcia66@icloud.com,39.0,M,Boston,MA,Occasional,47,1548.28,29,2025-06-21,Men,2024-01-11,53.39,35-44,Low Engagement
+C070,Dennis Martin,dennis.martin26@yahoo.com,27.0,M,Indianapolis,IN,Loyal,123,4142.52,46,2025-06-28,Men,2024-01-01,90.05,25-34,Mid Engagement
+C071,Jonathan Flores,jonathan.flores59@hotmail.com,39.0,M,Phoenix,AZ,Seasonal,64,2222.11,42,2025-06-28,Men,2024-01-05,52.91,35-44,Mid Engagement
+C072,Tyler Hall,tyler.hall64@hotmail.com,53.0,M,Minneapolis,MN,Occasional,77,2846.73,50,2025-06-17,Men,2024-01-05,56.93,45-54,Mid Engagement
+C073,Richard Roberts,richard.roberts29@yahoo.com,34.0,M,Cleveland,OH,Seasonal,101,2897.49,65,2025-06-18,Men,2024-01-03,44.58,25-34,High Engagement
+C074,Linda Scott,linda.scott16@hotmail.com,53.0,F,Seattle,WA,Loyal,121,4425.04,42,2025-06-30,Women,2024-01-02,105.36,45-54,Mid Engagement
+C075,Christine King,christine.king97@hotmail.com,18.0,F,Las Vegas,NV,New,86,3161.64,54,2025-06-30,Women,2024-01-02,58.55,18-24,Mid Engagement
+C076,Brenda Lewis,brenda.lewis96@hotmail.com,44.0,F,Austin,TX,Occasional,78,2847.97,48,2025-06-27,Women,2024-01-04,59.33,35-44,Mid Engagement
+C077,Patrick Moore,patrick.moore81@yahoo.com,36.0,M,Tucson,AZ,Occasional,86,2960.39,54,2025-06-30,All,2024-01-02,54.82,35-44,Mid Engagement
+C078,Tyler Jackson,tyler.jackson35@outlook.com,31.0,M,Seattle,WA,Occasional,100,3325.25,66,2025-06-24,Men,2024-01-03,50.38,25-34,High Engagement
+C079,Thomas Martinez,thomas.martinez50@yahoo.com,36.0,M,Indianapolis,IN,New,83,2950.42,56,2025-06-13,Men,2024-01-03,52.69,35-44,High Engagement
+C080,Jacob Clark,jacob.clark70@hotmail.com,,M,Memphis,TN,Occasional,102,3677.48,58,2025-06-22,Men,2024-01-06,63.4,Unknown,High Engagement
+C081,Jacob Harris,jacob.harris98@icloud.com,32.0,M,Los Angeles,CA,Occasional,80,2662.7,49,2025-06-25,Men,2024-01-03,54.34,25-34,Mid Engagement
+C082,Timothy Martin,timothy.martin54@icloud.com,39.0,M,Minneapolis,MN,New,82,2633.18,53,2025-06-28,Men,2024-01-05,49.68,35-44,Mid Engagement
+C083,Stephen Anderson,stephen.anderson56@hotmail.com,52.0,M,Nashville,TN,Loyal,135,4741.15,49,2025-06-28,Men,2024-01-01,96.76,45-54,Mid Engagement
+C084,Christine Baker,christine.baker93@yahoo.com,28.0,F,Tampa,FL,Seasonal,86,3077.89,57,2025-06-29,Women,2024-01-24,54.0,25-34,High Engagement
+C085,Samuel Wright,samuel.wright51@icloud.com,25.0,M,Los Angeles,CA,New,66,2192.84,39,2025-06-01,Men,2024-01-01,56.23,25-34,Mid Engagement
+C086,David Adams,david.adams18@hotmail.com,28.0,M,Cleveland,OH,Loyal,116,4110.34,45,2025-06-29,Men,2024-01-06,91.34,25-34,Mid Engagement
+C087,Deborah Lee,deborah.lee59@outlook.com,45.0,F,Charlotte,NC,Occasional,96,3553.54,60,2025-06-22,Women,2024-01-05,59.23,45-54,High Engagement
+C088,Kimberly Carter,kimberly.carter33@gmail.com,38.0,F,New Orleans,LA,Occasional,81,3326.44,48,2025-06-24,Women,2024-01-02,69.3,35-44,Mid Engagement
+C089,Timothy Anderson,timothy.anderson84@gmail.com,28.0,M,Phoenix,AZ,Seasonal,70,2248.55,51,2025-06-12,Men,2024-01-01,44.09,25-34,Mid Engagement
+C090,Anthony Parker,anthony.parker80@yahoo.com,41.0,M,Los Angeles,CA,Occasional,84,2925.16,57,2025-06-29,Men,2024-01-02,51.32,35-44,High Engagement
+C091,Christine Davis,christine.davis60@outlook.com,36.0,F,Charlotte,NC,Seasonal,83,3152.42,53,2025-06-09,Women,2024-01-02,59.48,35-44,Mid Engagement
+C092,Frank Hill,frank.hill21@outlook.com,46.0,M,San Diego,CA,Loyal,124,4444.26,47,2025-06-26,Men,2024-01-06,94.56,45-54,Mid Engagement
+C093,George Torres,george.torres51@yahoo.com,26.0,M,Minneapolis,MN,Loyal,119,3697.06,52,2025-06-14,Men,2024-01-02,71.1,25-34,Mid Engagement
+C094,Richard Hall,richard.hall88@icloud.com,31.0,M,Portland,OR,Seasonal,74,2364.76,49,2025-06-24,Men,2024-01-02,48.26,25-34,Mid Engagement
+C095,Timothy Wright,timothy.wright85@outlook.com,30.0,M,Cleveland,OH,Loyal,123,4666.27,45,2025-06-27,Men,2024-01-18,103.69,25-34,Mid Engagement
+C096,Mary Collins,mary.collins63@gmail.com,18.0,F,New Orleans,LA,Occasional,108,4285.42,58,2025-06-18,Women,2024-01-29,73.89,18-24,High Engagement
+C097,Samantha Parker,samantha.parker91@yahoo.com,38.0,F,Sacramento,CA,Occasional,80,3107.7,46,2025-06-18,Women,2024-01-07,67.56,35-44,Mid Engagement
+C098,Helen Evans,helen.evans60@hotmail.com,38.0,F,Fresno,CA,Seasonal,73,3005.27,45,2025-06-29,Women,2024-01-12,66.78,35-44,Mid Engagement
+C099,Michelle Collins,michelle.collins12@outlook.com,35.0,F,Seattle,WA,Seasonal,79,2998.21,52,2025-06-27,Women,2024-01-05,57.66,35-44,Mid Engagement
+C100,Eric Torres,eric.torres44@gmail.com,32.0,M,Minneapolis,MN,Occasional,64,2168.61,46,2025-06-27,Men,2024-01-01,47.14,25-34,Mid Engagement
+C101,Nancy Young,nancy.young46@outlook.com,18.0,F,Charlotte,NC,Occasional,90,3339.35,53,2025-06-29,Women,2024-01-02,63.01,18-24,Mid Engagement
+C102,Brenda Smith,brenda.smith11@yahoo.com,29.0,F,Columbus,OH,New,75,2733.75,54,2025-06-22,Women,2024-01-03,50.62,25-34,Mid Engagement
+C103,Brenda Carter,brenda.carter89@hotmail.com,30.0,F,Seattle,WA,New,59,2157.16,41,2025-06-27,Women,2024-01-01,52.61,25-34,Mid Engagement
+C104,Laura Phillips,laura.phillips12@outlook.com,25.0,F,Los Angeles,CA,Occasional,73,3079.52,43,2025-06-16,Women,2024-01-03,71.62,25-34,Mid Engagement
+C105,George Nelson,george.nelson61@icloud.com,33.0,M,Miami,FL,New,81,2660.19,50,2025-06-30,Men,2024-01-16,53.2,25-34,Mid Engagement
+C106,Catherine Scott,catherine.scott46@hotmail.com,39.0,F,Memphis,TN,Occasional,72,2836.28,46,2025-06-29,Women,2024-01-01,61.66,35-44,Mid Engagement
+C107,Sandra Davis,sandra.davis41@gmail.com,57.0,F,Columbus,OH,New,68,2574.57,46,2025-06-26,Women,2024-01-02,55.97,55-64,Mid Engagement
+C108,Anthony Wilson,anthony.wilson36@icloud.com,37.0,M,Fresno,CA,Bargain Hunter,125,4574.5,46,2025-06-19,Men,2024-01-04,99.45,35-44,Mid Engagement
+C109,Susan Parker,susan.parker38@yahoo.com,38.0,F,Columbus,OH,Occasional,93,3369.32,50,2025-06-30,Women,2024-01-07,67.39,35-44,Mid Engagement
+C110,Mary Rivera,mary.rivera36@gmail.com,34.0,F,Dallas,TX,Bargain Hunter,134,4442.41,49,2025-06-29,Women,2024-01-03,90.66,25-34,Mid Engagement
+C111,Rachel Rodriguez,rachel.rodriguez14@gmail.com,18.0,F,Tucson,AZ,New,81,4078.69,49,2025-06-25,Women,2024-01-02,83.24,18-24,Mid Engagement
+C112,Kathleen Lewis,kathleen.lewis24@gmail.com,34.0,F,Memphis,TN,Occasional,93,3556.32,59,2025-06-28,Women,2024-01-03,60.28,25-34,High Engagement
+C113,Jessica Turner,jessica.turner52@hotmail.com,35.0,F,Phoenix,AZ,Loyal,114,3942.11,48,2025-05-16,Women,2024-01-03,82.13,35-44,Mid Engagement
+C114,Charles Martinez,charles.martinez11@yahoo.com,64.0,M,Portland,OR,Loyal,127,4002.48,47,2025-06-04,Men,2024-01-21,85.16,55-64,Mid Engagement
+C115,Nicole Hill,nicole.hill67@hotmail.com,32.0,F,Indianapolis,IN,Occasional,79,2946.21,48,2025-06-11,Women,2024-01-05,61.38,25-34,Mid Engagement
+C116,Donna Edwards,donna.edwards40@icloud.com,38.0,F,Cleveland,OH,New,82,3130.43,53,2025-06-16,Women,2024-01-04,59.06,35-44,Mid Engagement
+C117,Mark Green,mark.green34@gmail.com,,M,Charlotte,NC,Loyal,94,3587.06,41,2025-06-28,Men,2024-02-15,87.49,Unknown,Mid Engagement
+C118,Brandon Jones,brandon.jones1@hotmail.com,20.0,M,Austin,TX,Occasional,72,2665.78,43,2025-06-05,Men,2024-01-10,61.99,18-24,Mid Engagement
+C119,Emily Williams,emily.williams37@outlook.com,48.0,F,Indianapolis,IN,New,74,2770.51,49,2025-06-29,Women,2024-01-01,56.54,45-54,Mid Engagement
+C120,Barbara Baker,barbara.baker34@icloud.com,44.0,F,Indianapolis,IN,New,66,2713.59,40,2025-06-28,Women,2024-01-05,67.84,35-44,Mid Engagement
+C121,Gary Davis,gary.davis83@yahoo.com,44.0,M,Indianapolis,IN,Bargain Hunter,133,4170.17,47,2025-06-27,Men,2024-01-03,88.73,35-44,Mid Engagement
+C122,William Brown,william.brown40@icloud.com,24.0,M,Austin,TX,New,86,2814.64,56,2025-06-28,Men,2024-01-01,50.26,18-24,High Engagement
+C123,Laura Davis,laura.davis89@outlook.com,51.0,F,Sacramento,CA,New,71,2933.54,44,2025-06-26,Women,2024-01-03,66.67,45-54,Mid Engagement
+C124,Angela Wright,angela.wright57@gmail.com,18.0,F,Tucson,AZ,New,74,3001.01,46,2025-06-29,Women,2024-01-03,65.24,18-24,Mid Engagement
+C125,Catherine Lee,catherine.lee4@gmail.com,42.0,F,Denver,CO,Occasional,69,2584.06,49,2025-06-27,Women,2024-01-03,52.74,35-44,Mid Engagement
+C126,Dennis Turner,dennis.turner74@gmail.com,61.0,M,Nashville,TN,Seasonal,86,3260.64,54,2025-06-28,Men,2024-01-06,60.38,55-64,Mid Engagement
+C127,Jonathan King,jonathan.king36@yahoo.com,23.0,M,Raleigh,NC,Bargain Hunter,146,4971.04,53,2025-06-17,Men,2024-01-05,93.79,18-24,Mid Engagement
+C128,Samantha Turner,samantha.turner12@hotmail.com,28.0,F,Tucson,AZ,Occasional,73,3023.77,49,2025-06-28,Women,2024-01-19,61.71,25-34,Mid Engagement
+C129,Michelle Nelson,michelle.nelson21@outlook.com,36.0,F,San Antonio,TX,Occasional,61,2173.14,42,2025-05-03,Women,2024-01-02,51.74,35-44,Mid Engagement
+C130,Emily Nelson,emily.nelson98@icloud.com,28.0,F,Tampa,FL,Loyal,123,4079.52,46,2025-06-03,Women,2024-01-06,88.69,25-34,Mid Engagement
+C131,Edward Taylor,edward.taylor15@hotmail.com,18.0,M,Las Vegas,NV,Seasonal,76,2358.74,53,2025-06-23,Men,2024-01-10,44.5,18-24,Mid Engagement
+C132,Jack Edwards,jack.edwards53@gmail.com,35.0,M,Sacramento,CA,Loyal,146,5437.04,54,2025-06-27,Men,2024-01-07,100.69,35-44,Mid Engagement
+C133,Helen Carter,helen.carter81@hotmail.com,22.0,F,Tucson,AZ,Seasonal,68,2786.32,39,2025-06-13,Women,2024-01-04,71.44,18-24,Mid Engagement
+C134,Kevin Scott,kevin.scott37@hotmail.com,40.0,M,Dallas,TX,Seasonal,83,2779.42,52,2025-06-27,Men,2024-01-20,53.45,35-44,Mid Engagement
+C135,Jessica Johnson,jessica.johnson91@yahoo.com,23.0,F,Seattle,WA,Occasional,81,3310.69,47,2025-06-22,Women,2024-01-04,70.44,18-24,Mid Engagement
+C136,Brandon Clark,brandon.clark29@gmail.com,53.0,M,Philadelphia,PA,Occasional,67,2146.33,43,2025-05-28,Men,2024-01-01,49.91,45-54,Mid Engagement
+C137,Alexander Parker,alexander.parker64@outlook.com,25.0,M,San Jose,CA,New,80,2920.7,56,2025-06-24,Men,2024-01-08,52.16,25-34,High Engagement
+C138,Rebecca Parker,rebecca.parker61@yahoo.com,31.0,F,Fresno,CA,Occasional,95,3457.8,63,2025-06-30,Women,2024-01-14,54.89,25-34,High Engagement
+C139,Jeffrey Gonzalez,jeffrey.gonzalez9@outlook.com,44.0,M,Dallas,TX,Seasonal,115,3413.85,69,2025-06-29,Men,2024-01-27,49.48,35-44,High Engagement
+C140,Carol Phillips,carol.phillips1@outlook.com,20.0,F,Nashville,TN,New,66,2328.09,38,2025-06-30,Women,2024-01-06,61.27,18-24,Mid Engagement
+C141,Karen Lewis,karen.lewis45@outlook.com,37.0,F,Fresno,CA,New,82,2871.18,48,2025-06-28,Women,2024-01-21,59.82,35-44,Mid Engagement
+C142,Cynthia Lee,cynthia.lee90@yahoo.com,50.0,F,Columbus,OH,New,71,2830.04,46,2025-06-18,Women,2024-01-22,61.52,45-54,Mid Engagement
+C143,Jacob Williams,jacob.williams96@hotmail.com,18.0,M,Las Vegas,NV,New,64,2141.11,45,2025-06-30,Men,2024-01-03,47.58,18-24,Mid Engagement
+C144,Deborah Nelson,deborah.nelson64@gmail.com,37.0,F,San Jose,CA,Loyal,126,4480.99,50,2025-06-21,Women,2024-01-04,89.62,35-44,Mid Engagement
+C145,Susan Edwards,susan.edwards13@icloud.com,38.0,F,Raleigh,NC,Bargain Hunter,121,4294.04,46,2025-06-26,Women,2024-01-14,93.35,35-44,Mid Engagement
+C146,Aaron Martinez,aaron.martinez84@yahoo.com,44.0,M,New Orleans,LA,Loyal,112,3890.38,47,2025-06-29,Men,2024-01-06,82.77,35-44,Mid Engagement
+C147,Carol Flores,carol.flores84@gmail.com,20.0,F,Tampa,FL,Seasonal,89,3422.86,51,2025-05-22,Women,2024-01-11,67.11,18-24,Mid Engagement
+C148,Michelle Green,michelle.green70@gmail.com,19.0,F,Tucson,AZ,New,66,2043.09,39,2025-06-09,Women,2024-01-05,52.39,18-24,Mid Engagement
+C149,Patrick Baker,patrick.baker30@gmail.com,41.0,M,Boston,MA,Occasional,76,2518.49,46,2025-06-18,Men,2024-01-14,54.75,35-44,Mid Engagement
+C150,Patrick Rivera,patrick.rivera57@yahoo.com,38.0,M,San Antonio,TX,New,63,1792.37,47,2025-06-28,All,2024-01-02,38.14,35-44,Mid Engagement
+C151,Robert Lee,robert.lee38@outlook.com,38.0,M,Houston,TX,Occasional,71,3000.54,51,2025-06-10,Men,2024-01-01,58.83,35-44,Mid Engagement
+C152,Steven King,steven.king73@yahoo.com,39.0,M,New Orleans,LA,Loyal,126,4574.74,49,2025-06-25,Men,2024-01-06,93.36,35-44,Mid Engagement
+C153,Samuel Edwards,samuel.edwards80@yahoo.com,26.0,M,Minneapolis,MN,Occasional,91,2988.34,54,2025-06-24,Men,2024-01-01,55.34,25-34,Mid Engagement
+C154,Paul Robinson,paul.robinson59@outlook.com,37.0,M,Denver,CO,New,70,1963.05,45,2025-05-09,Men,2024-01-01,43.62,35-44,Mid Engagement
+C155,Emily Baker,emily.baker10@hotmail.com,38.0,F,Austin,TX,Bargain Hunter,144,5631.81,54,2025-06-28,Women,2024-01-04,104.29,35-44,Mid Engagement
+C156,Samantha Ramirez,samantha.ramirez59@outlook.com,26.0,F,Denver,CO,Loyal,149,5506.01,58,2025-06-30,Women,2024-01-04,94.93,25-34,High Engagement
+C157,Kathleen Miller,kathleen.miller49@icloud.com,57.0,F,Seattle,WA,Occasional,85,3546.4,55,2025-06-11,Women,2024-01-07,64.48,55-64,High Engagement
+C158,Rachel Jackson,rachel.jackson85@hotmail.com,40.0,F,Los Angeles,CA,Occasional,64,2399.36,45,2025-06-04,Women,2024-01-06,53.32,35-44,Mid Engagement
+C159,Frank Mitchell,frank.mitchell37@yahoo.com,20.0,M,Tucson,AZ,New,77,2503.23,49,2025-06-24,Men,2024-01-07,51.09,18-24,Mid Engagement
+C160,Sandra Green,sandra.green80@outlook.com,42.0,F,Columbus,OH,New,88,3356.12,57,2025-06-28,Women,2024-01-05,58.88,35-44,High Engagement
+C161,Patrick Miller,patrick.miller40@hotmail.com,23.0,M,Chicago,IL,Loyal,126,3697.99,51,2025-06-24,Men,2024-01-02,72.51,18-24,Mid Engagement
+C162,Janet Rodriguez,janet.rodriguez38@outlook.com,44.0,F,Philadelphia,PA,New,89,3562.61,52,2025-06-14,Women,2024-01-02,68.51,35-44,Mid Engagement
+C163,Anthony Rodriguez,anthony.rodriguez68@icloud.com,48.0,M,Miami,FL,Bargain Hunter,132,3949.43,46,2025-06-14,Men,2024-01-29,85.86,45-54,Mid Engagement
+C164,Andrew Turner,andrew.turner38@outlook.com,25.0,M,Fresno,CA,Seasonal,70,2022.05,43,2025-06-14,Men,2024-01-02,47.02,25-34,Mid Engagement
+C165,Barbara Martinez,barbara.martinez87@hotmail.com,46.0,F,Indianapolis,IN,Bargain Hunter,143,4876.82,49,2025-04-22,Women,2024-01-06,99.53,45-54,Mid Engagement
+C166,Elizabeth Phillips,elizabeth.phillips2@outlook.com,39.0,F,Tampa,FL,New,76,3410.99,46,2025-06-03,Women,2024-01-03,74.15,35-44,Mid Engagement
+C167,Melissa Baker,melissa.baker75@hotmail.com,44.0,F,Denver,CO,Seasonal,72,2769.53,47,2025-06-27,Women,2024-02-03,58.93,35-44,Mid Engagement
+C168,Susan Baker,susan.baker61@gmail.com,57.0,F,Indianapolis,IN,New,99,3922.26,60,2025-06-06,Women,2024-01-02,65.37,55-64,High Engagement
+C169,Helen Anderson,helen.anderson82@hotmail.com,32.0,F,Phoenix,AZ,Bargain Hunter,190,6496.6,67,2025-06-25,Women,2024-01-03,96.96,25-34,High Engagement
+C170,Katherine Clark,katherine.clark18@gmail.com,25.0,F,San Diego,CA,Bargain Hunter,160,6224.65,56,2025-06-15,Women,2024-01-02,111.15,25-34,High Engagement
+C171,Amy Davis,amy.davis31@icloud.com,24.0,F,San Antonio,TX,Loyal,116,4600.34,46,2025-06-30,Women,2024-01-02,100.01,18-24,Mid Engagement
+C172,Melissa Nelson,melissa.nelson76@yahoo.com,25.0,F,New Orleans,LA,Seasonal,93,3965.82,61,2025-06-18,Women,2024-01-08,65.01,25-34,High Engagement
+C173,Stephen Flores,stephen.flores36@gmail.com,34.0,M,New Orleans,LA,New,58,2093.92,39,2025-06-29,Men,2024-01-12,53.69,25-34,Mid Engagement
+C174,Nicholas Lewis,nicholas.lewis47@gmail.com,39.0,M,Seattle,WA,Bargain Hunter,136,3912.64,47,2025-06-01,Men,2024-01-12,83.25,35-44,Mid Engagement
+C175,Anna Adams,anna.adams8@hotmail.com,38.0,F,Atlanta,GA,Occasional,60,2241.9,44,2025-06-06,Women,2024-01-02,50.95,35-44,Mid Engagement
+C176,Eric Garcia,eric.garcia83@icloud.com,44.0,M,Charlotte,NC,Bargain Hunter,132,4389.43,46,2025-06-07,Men,2024-01-04,95.42,35-44,Mid Engagement
+C177,Ronald Thomas,ronald.thomas73@yahoo.com,35.0,M,Dallas,TX,Loyal,106,3201.44,47,2025-06-30,Men,2024-01-06,68.12,35-44,Mid Engagement
+C178,Gregory Wilson,gregory.wilson43@yahoo.com,52.0,M,Indianapolis,IN,Seasonal,92,2467.83,57,2025-06-08,Men,2024-01-04,43.3,45-54,High Engagement
+C179,Kevin Collins,kevin.collins17@icloud.com,31.0,M,San Jose,CA,Occasional,61,2052.64,42,2025-06-21,All,2024-01-03,48.87,25-34,Mid Engagement
+C180,Joseph Nelson,joseph.nelson17@gmail.com,67.0,M,Los Angeles,CA,Occasional,55,1797.45,36,2025-06-08,Men,2024-01-07,49.93,65+,Mid Engagement
+C181,Gregory Lee,gregory.lee23@outlook.com,42.0,M,Los Angeles,CA,Loyal,131,4445.94,48,2025-06-26,Men,2024-01-05,92.62,35-44,Mid Engagement
+C182,Shirley Davis,shirley.davis61@hotmail.com,24.0,F,Phoenix,AZ,Seasonal,76,3052.74,44,2025-06-10,Women,2024-01-02,69.38,18-24,Mid Engagement
+C183,Nicholas Allen,nicholas.allen79@gmail.com,22.0,M,Indianapolis,IN,New,87,3004.88,49,2025-06-29,Men,2024-01-07,61.32,18-24,Mid Engagement
+C184,Cynthia Adams,cynthia.adams8@hotmail.com,40.0,F,Los Angeles,CA,Seasonal,82,2988.43,55,2025-06-18,Women,2024-01-04,54.34,35-44,High Engagement
+C185,Debra Miller,debra.miller92@hotmail.com,32.0,F,Tucson,AZ,Loyal,175,6689.25,68,2025-06-26,Women,2024-01-13,98.37,25-34,High Engagement
+C186,Edward Hill,edward.hill9@yahoo.com,43.0,M,San Jose,CA,Occasional,88,3623.62,54,2025-06-24,Men,2024-01-06,67.1,35-44,Mid Engagement
+C187,Deborah Hill,deborah.hill59@icloud.com,40.0,F,Boston,MA,New,70,2917.05,45,2025-06-11,Women,2024-01-03,64.82,35-44,Mid Engagement
+C188,Jerry Davis,jerry.davis56@hotmail.com,34.0,M,Charlotte,NC,Seasonal,75,2501.25,47,2025-06-14,Men,2024-01-04,53.22,25-34,Mid Engagement
+C189,Carol Turner,carol.turner52@hotmail.com,24.0,F,Sacramento,CA,New,64,2303.36,41,2025-06-27,Women,2024-01-05,56.18,18-24,Mid Engagement
+C190,Sharon Lee,sharon.lee48@yahoo.com,18.0,F,Denver,CO,New,92,3431.08,61,2025-06-24,Women,2024-01-01,56.25,18-24,High Engagement
+C191,Barbara Garcia,barbara.garcia12@hotmail.com,29.0,F,Philadelphia,PA,Loyal,128,4740.72,54,2025-06-22,Women,2024-01-30,87.79,25-34,Mid Engagement
+C192,Sarah Scott,sarah.scott76@icloud.com,45.0,F,Houston,TX,New,82,3474.68,47,2025-06-01,Women,2024-01-13,73.93,45-54,Mid Engagement
+C193,Jacob Thompson,jacob.thompson93@gmail.com,37.0,M,Cleveland,OH,Bargain Hunter,144,4303.31,53,2025-06-22,Men,2024-01-17,81.19,35-44,Mid Engagement
+C194,Amanda Miller,amanda.miller20@hotmail.com,20.0,F,Charlotte,NC,Occasional,62,2228.63,40,2025-06-07,Women,2024-01-02,55.72,18-24,Mid Engagement
+C195,Timothy Collins,timothy.collins15@outlook.com,37.0,M,Miami,FL,New,91,3488.09,56,2025-06-22,Men,2024-01-06,62.29,35-44,High Engagement
+C196,Brenda Roberts,brenda.roberts78@outlook.com,39.0,F,Los Angeles,CA,Loyal,135,5587.9,51,2025-06-04,Women,2024-01-05,109.57,35-44,Mid Engagement
+C197,Rachel Carter,rachel.carter44@outlook.com,24.0,F,Portland,OR,Loyal,149,6037.76,57,2025-06-09,Women,2024-01-01,105.93,18-24,High Engagement
+C198,Raymond Nelson,raymond.nelson9@yahoo.com,36.0,M,Tampa,FL,New,65,2362.35,44,2025-06-29,Men,2024-01-03,53.69,35-44,Mid Engagement
+C199,David Mitchell,david.mitchell49@hotmail.com,35.0,M,Charlotte,NC,Occasional,79,2723.71,54,2025-06-14,Men,2024-01-02,50.44,35-44,Mid Engagement
+C200,Jason Martin,jason.martin73@icloud.com,21.0,M,Las Vegas,NV,Loyal,121,4141.79,48,2025-06-26,Men,2024-01-06,86.29,18-24,Mid Engagement
